@@ -1,4 +1,6 @@
-numpy 
-pandas 
-indic-transliteration
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
 tqdm
