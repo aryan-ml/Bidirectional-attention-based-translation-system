@@ -1,0 +1,665 @@
+input,target,type
+मुझे बाहर जाना है,mujhe bahara jana hai,hi_to_hinglish
+मुझे बाहर जाना है,mujhe bahara jana hai na,hi_to_hinglish
+तुम क्या कर रहे हो,tuma kya kara rahe ho,hi_to_hinglish
+तुम क्या कर रहे हो,tuma kya kara rahe ho bhai,hi_to_hinglish
+मुझे भूख लगी है,mujhe bhukha lagi hai,hi_to_hinglish
+क्या तुम मेरे साथ चलोगे,kya tuma mere satha caloge,hi_to_hinglish
+यह बहुत मुश्किल है,yaha bahuta muzkila hai,hi_to_hinglish
+यह बहुत मुश्किल है,yaha bahuta muzkila hai yaar,hi_to_hinglish
+जल्दी आओ,jaldi ao,hi_to_hinglish
+जल्दी आओ,jaldi ao na,hi_to_hinglish
+मुझे पानी चाहिए,mujhe pani cahie,hi_to_hinglish
+नाश्ता क्या बनाया है?,nazta kya banaya hai?,hi_to_hinglish
+चाय पी लोगे?,caya pi loge?,hi_to_hinglish
+चाय पी लोगे?,caya pi loge? bro,hi_to_hinglish
+कल क्या प्लान है?,kala kya plana hai?,hi_to_hinglish
+कल क्या प्लान है?,kala kya plana h?,hi_to_hinglish
+भूख लगी है क्या?,bhukha lagi hai kya?,hi_to_hinglish
+बस आ गई क्या?,basa a gai kya?,hi_to_hinglish
+बस आ गई क्या?,basa a gai kya? yaar,hi_to_hinglish
+तुम्हें क्या चाहिए?,tumhem kya cahie?,hi_to_hinglish
+फिल्म देखनी है?,philma dekhani hai?,hi_to_hinglish
+परीक्षा कब है?,pariksa kaba hai?,hi_to_hinglish
+आज मीटिंग है क्या?,aja mitimga hai kya?,hi_to_hinglish
+आज मीटिंग है क्या?,aja mitimga hai kya? bhai,hi_to_hinglish
+रिपोर्ट तैयार है?,riporta taiyara hai?,hi_to_hinglish
+अलार्म लगा दिया?,alarma laga diya?,hi_to_hinglish
+अच्छी नींद आई?,acchi nimda ai?,hi_to_hinglish
+सपना देखा क्या?,sapana dekha kya?,hi_to_hinglish
+मुस्कुरा क्यों रहे हो?,muskura kyom rahe ho?,hi_to_hinglish
+मुस्कुरा क्यों रहे हो?,muskura kyom rahe ho? bro,hi_to_hinglish
+बहुत बढ़िया!,bahuta bar3hiya!,hi_to_hinglish
+शाबाश!,zabaza! bhai,hi_to_hinglish
+साथ चलोगे?,satha caloge?,hi_to_hinglish
+साथ चलोगे?,satha caloge? bro,hi_to_hinglish
+वीकेंड पर क्या कर रहे हो?,vikemda para kya kara rahe ho?,hi_to_hinglish
+घूमने चलें?,ghumane calem?,hi_to_hinglish
+होमवर्क पूरा किया?,homavarka pura kiya?,hi_to_hinglish
+क्या हुआ?,kya hua?,hi_to_hinglish
+क्या हुआ?,kya hua? na,hi_to_hinglish
+दवा ले ली?,dava le li?,hi_to_hinglish
+बुखार है क्या?,bukhara hai kya?,hi_to_hinglish
+मिठाई खाओगे?,mithai khaoge?,hi_to_hinglish
+बर्तन धो दिए?,bartana dho die?,hi_to_hinglish
+बर्तन धो दिए?,bartana dho die? bhai,hi_to_hinglish
+धोबी को कपड़े दे आए?,dhobi ko kapar3e de ae?,hi_to_hinglish
+धोबी को कपड़े दे आए?,dhobi ko kapar3e de ae? yaar,hi_to_hinglish
+वाईफाई पासवर्ड क्या है?,vaiphai pasavarda kya hai?,hi_to_hinglish
+रिचार्ज करवा दिया?,ricarja karava diya?,hi_to_hinglish
+पिन याद है?,pina yada hai?,hi_to_hinglish
+क्या पहनोगे?,kya pahanoge?,hi_to_hinglish
+बर्थडे विश कर दिया?,barthade viza kara diya?,hi_to_hinglish
+नया रेस्टोरेंट ट्राई करें?,naya restoremta trai karem?,hi_to_hinglish
+बहन कैसी है?,bahana kaisi hai?,hi_to_hinglish
+बहन कैसी है?,bahana kaisi hai? na,hi_to_hinglish
+भाई क्या कर रहा है?,bhai kya kara raha hai?,hi_to_hinglish
+भाई क्या कर रहा है?,bhai kya kara raha hai? bhai,hi_to_hinglish
+घर कैसे हैं सब?,ghara kaise haim saba?,hi_to_hinglish
+त्योहार कब है?,tyohara kaba hai?,hi_to_hinglish
+कैसे हो?,kaise ho?,hi_to_hinglish
+सब बढ़िया?,saba bar3hiya?,hi_to_hinglish
+क्या चल रहा है?,kya cala raha hai?,hi_to_hinglish
+मिलते हैं जल्दी!,milate haim jaldi!,hi_to_hinglish
+सुबह की सैर कर ली?,subaha ki saira kara li?,hi_to_hinglish
+आज क्या खास बना है?,aja kya khasa bana hai?,hi_to_hinglish
+लंच में क्या लेके जा रहे हो?,lamca mem kya leke ja rahe ho?,hi_to_hinglish
+बिल्कुल फ्री हो आज?,bilkula phri ho aja?,hi_to_hinglish
+बिल्कुल फ्री हो आज?,bilkula phri ho aja? bro,hi_to_hinglish
+प्रेजेंटेशन तैयार कर लिया?,prejemtezana taiyara kara liya?,hi_to_hinglish
+प्रेजेंटेशन तैयार कर लिया?,prejemtezana taiyara kara liya? bhai,hi_to_hinglish
+ईमेल चेक कर लिया?,imela ceka kara liya?,hi_to_hinglish
+नया प्रोजेक्ट कब शुरू है?,naya projekta kaba zuru hai?,hi_to_hinglish
+लंच ब्रेक कब है?,lamca breka kaba hai?,hi_to_hinglish
+लंच ब्रेक कब है?,lamca breka kaba hai? bhai,hi_to_hinglish
+नया गाना सुना क्या?,naya gana suna kya?,hi_to_hinglish
+आज का न्यूज़ क्या है?,aja ka nyuz2a kya hai?,hi_to_hinglish
+आज का न्यूज़ क्या है?,aja ka nyuz2a kya hai? bro,hi_to_hinglish
+अखबार पढ़ लिया?,akhabara par3ha liya?,hi_to_hinglish
+मोबाइल का बैकअप ले लिया?,mobaila ka baikaapa le liya?,hi_to_hinglish
+पौधों को पानी दे दिया?,paudhom ko pani de diya?,hi_to_hinglish
+पौधों को पानी दे दिया?,paudhom ko pani de diya? na,hi_to_hinglish
+कुत्ता खाना खा लिया?,kutta khana kha liya?,hi_to_hinglish
+कुत्ता खाना खा लिया?,kutta khana kha liya? bro,hi_to_hinglish
+बिल्ली बाहर है क्या?,billi bahara hai kya?,hi_to_hinglish
+कौन आया है बाहर?,kauna aya hai bahara?,hi_to_hinglish
+कौन आया है बाहर?,kauna aya hai bahara? yaar,hi_to_hinglish
+फ्रिज में क्या बचा है?,phrija mem kya baca hai?,hi_to_hinglish
+फ्रिज में क्या बचा है?,phrija mem kya baca hai? bhai,hi_to_hinglish
+खाना मिर्ची वाला है?,khana mirci vala hai?,hi_to_hinglish
+खाना मिर्ची वाला है?,khana mirci vala hai? bhai,hi_to_hinglish
+खाना मिर्ची वाला है?,khana mirci vala h?,hi_to_hinglish
+स्वाद ठीक है ना?,svada thika hai na?,hi_to_hinglish
+डेज़र्ट में क्या है?,dez2arta mem kya hai?,hi_to_hinglish
+डेज़र्ट में क्या है?,dez2arta mem kya h?,hi_to_hinglish
+कपड़े सुखा दिए?,kapar3e sukha die?,hi_to_hinglish
+कपड़े सुखा दिए?,kapar3e sukha die? bro,hi_to_hinglish
+अच्छी सी फिल्म चल रही है?,acchi si philma cala rahi hai?,hi_to_hinglish
+अच्छी सी फिल्म चल रही है?,acchi si philma cala rahi hai? bro,hi_to_hinglish
+नींद आ रही है क्या?,nimda a rahi hai kya?,hi_to_hinglish
+अखबार की हेडलाइन क्या है?,akhabara ki hedalaina kya hai?,hi_to_hinglish
+आज का मैच किसके बीच है?,aja ka maica kisake bica hai?,hi_to_hinglish
+आज का मैच किसके बीच है?,aja ka maica kisake bica hai? na,hi_to_hinglish
+क्रिकेट देखोगे?,kriketa dekhoge?,hi_to_hinglish
+स्कोर क्या चल रहा है?,skora kya cala raha hai?,hi_to_hinglish
+गोल हो गया!,gola ho gaya!,hi_to_hinglish
+हार गए क्या?,hara gae kya?,hi_to_hinglish
+एक्सरसाइज कर ली?,eksarasaija kara li?,hi_to_hinglish
+योगासन किए?,yogasana kie?,hi_to_hinglish
+वजन चेक किया?,vajana ceka kiya?,hi_to_hinglish
+वजन चेक किया?,vajana ceka kiya? na,hi_to_hinglish
+कब मिल रहे हो?,kaba mila rahe ho?,hi_to_hinglish
+स्टोरी देख ली?,stori dekha li?,hi_to_hinglish
+स्टोरी देख ली?,stori dekha li? bhai,hi_to_hinglish
+स्टोरी देख ली?,stori dekha li? yaar,hi_to_hinglish
+ट्रेंडिंग क्या है आज?,tremdimga kya hai aja?,hi_to_hinglish
+नया ट्रेंड ट्राई करोगे?,naya tremda trai karoge?,hi_to_hinglish
+नया ट्रेंड ट्राई करोगे?,naya tremda trai karoge? bro,hi_to_hinglish
+डांस करोगे मेरे साथ?,damsa karoge mere satha?,hi_to_hinglish
+पार्टी में जाना है?,parti mem jana hai?,hi_to_hinglish
+पार्टी में जाना है?,parti mem jana hai? yaar,hi_to_hinglish
+ड्रेस चुन लिया?,dresa cuna liya?,hi_to_hinglish
+मेकअप कर लिया?,mekaapa kara liya?,hi_to_hinglish
+तैयार हो गए?,taiyara ho gae?,hi_to_hinglish
+रंग पसंद है?,ramga pasamda hai?,hi_to_hinglish
+मीटिंग फिक्स कर ली?,mitimga phiksa kara li?,hi_to_hinglish
+मीटिंग फिक्स कर ली?,mitimga phiksa kara li? bhai,hi_to_hinglish
+कुछ खाओगे?,kucha khaoge?,hi_to_hinglish
+कुछ खाओगे?,kucha khaoge? yaar,hi_to_hinglish
+स्वाद कैसा लगा?,svada kaisa laga?,hi_to_hinglish
+स्वाद कैसा लगा?,svada kaisa laga? na,hi_to_hinglish
+स्वाद कैसा लगा?,svada kaisa laga? bro,hi_to_hinglish
+हमेशा खुश रहो!,hameza khuza raho!,hi_to_hinglish
+आज का टास्क पूरा कर लिया?,aja ka taska pura kara liya?,hi_to_hinglish
+सैंडविच खा लेंगे?,saimdavica kha lemge?,hi_to_hinglish
+कैब बुक कर ली?,kaiba buka kara li?,hi_to_hinglish
+वर्कआउट प्लान क्या है?,varkaauta plana kya hai?,hi_to_hinglish
+वर्कआउट प्लान क्या है?,varkaauta plana kya hai? bhai,hi_to_hinglish
+कार्डियो या वेट ट्रेनिंग?,kardiyo ya veta trenimga?,hi_to_hinglish
+सर्दी लग रही है क्या?,sardi laga rahi hai kya?,hi_to_hinglish
+गैस बंद कर दी?,gaisa bamda kara di?,hi_to_hinglish
+कोल्ड ड्रिंक ठंडी है?,kolda drimka thamdi hai?,hi_to_hinglish
+कोल्ड ड्रिंक ठंडी है?,kolda drimka thamdi h?,hi_to_hinglish
+"बियर या जूस, क्या लोगे?","biyara ya jusa, kya loge?",hi_to_hinglish
+गिफ्ट रैप कर दिया?,giphta raipa kara diya?,hi_to_hinglish
+गिफ्ट रैप कर दिया?,giphta raipa kara diya? yaar,hi_to_hinglish
+कार्ड लिख दिया?,karda likha diya?,hi_to_hinglish
+कैंडल ब्लो करोगे?,kaimdala blo karoge?,hi_to_hinglish
+वेन्यू बुक हो गया?,venyu buka ho gaya?,hi_to_hinglish
+वेन्यू बुक हो गया?,venyu buka ho gaya? bro,hi_to_hinglish
+बलून फुला दिए?,baluna phula die?,hi_to_hinglish
+डीजे बुलाया है?,dije bulaya hai?,hi_to_hinglish
+अगली पार्टी कब प्लान करें?,agali parti kaba plana karem?,hi_to_hinglish
+होटल रूम रिजर्व कर दिया?,hotala ruma rijarva kara diya?,hi_to_hinglish
+होटल रूम रिजर्व कर दिया?,hotala ruma rijarva kara diya? bhai,hi_to_hinglish
+वीजा चेक कर लिया?,vija ceka kara liya?,hi_to_hinglish
+बोर्डिंग पास डाउनलोड कर लिया?,bordimga pasa daunaloda kara liya?,hi_to_hinglish
+होटल ट्रांसफर बुक है?,hotala tramsaphara buka hai?,hi_to_hinglish
+ब्रेकफास्ट शामिल है?,brekaphasta zamila hai?,hi_to_hinglish
+जिम टाइमिंग क्या है?,jima taimimga kya hai?,hi_to_hinglish
+जिम टाइमिंग क्या है?,jima taimimga kya hai? na,hi_to_hinglish
+जिम टाइमिंग क्या है?,jima taimimga kya hai? bro,hi_to_hinglish
+रिलैक्स फील कर रहे हो?,rilaiksa phila kara rahe ho?,hi_to_hinglish
+रिलैक्स फील कर रहे हो?,rilaiksa phila kara rahe ho? bro,hi_to_hinglish
+घर वापस कब जाना है?,ghara vapasa kaba jana hai?,hi_to_hinglish
+ब्लूटूथ कनेक्ट हो गया?,blututha kanekta ho gaya?,hi_to_hinglish
+डिलीवरी ट्रैक कर रहे हो?,dilivari traika kara rahe ho?,hi_to_hinglish
+डिलीवरी ट्रैक कर रहे हो?,dilivari traika kara rahe ho? yaar,hi_to_hinglish
+पैकेट आ गया?,paiketa a gaya?,hi_to_hinglish
+पैकेट आ गया?,paiketa a gaya? yaar,hi_to_hinglish
+प्रोडक्ट कैसा है?,prodakta kaisa hai?,hi_to_hinglish
+प्रोडक्ट कैसा है?,prodakta kaisa hai? bro,hi_to_hinglish
+इन्वेस्टमेंट प्लान क्या है?,investamemta plana kya hai?,hi_to_hinglish
+शेयर मार्केट देख रहे हो?,zeyara marketa dekha rahe ho?,hi_to_hinglish
+म्यूचुअल फंड में डालोगे?,myucuala phamda mem daloge?,hi_to_hinglish
+डेटा बैकअप ले लिया?,deta baikaapa le liya?,hi_to_hinglish
+मैसेज पैक यूज कर रहे हो?,maiseja paika yuja kara rahe ho?,hi_to_hinglish
+मैसेज पैक यूज कर रहे हो?,maiseja paika yuja kara rahe ho? bhai,hi_to_hinglish
+मैसेज पैक यूज कर रहे हो?,maiseja paika yuja kara rahe ho? bro,hi_to_hinglish
+मिलते हैं कल फिर!,milate haim kala phira!,hi_to_hinglish
+मिलते हैं कल फिर!,milate hm kala phira!,hi_to_hinglish
+आज की डेडलाइन याद है ना?,aja ki dedalaina yada hai na?,hi_to_hinglish
+रिपोर्ट में कुछ बदलाव चाहिए?,riporta mem kucha badalava cahie?,hi_to_hinglish
+रिपोर्ट में कुछ बदलाव चाहिए?,riporta mem kucha badalava cahie? bro,hi_to_hinglish
+टीम मीटिंग कब रखी है?,tima mitimga kaba rakhi hai?,hi_to_hinglish
+टीम मीटिंग कब रखी है?,tima mitimga kaba rakhi hai? bhai,hi_to_hinglish
+टीम मीटिंग कब रखी है?,tima mitimga kaba rakhi hai? na,hi_to_hinglish
+प्रोजेक्ट का स्टेटस क्या है?,projekta ka stetasa kya hai?,hi_to_hinglish
+प्रोजेक्ट का स्टेटस क्या है?,projekta ka stetasa kya hai? yaar,hi_to_hinglish
+प्रोजेक्ट का स्टेटस क्या है?,projekta ka stetasa kya hai? bhai,hi_to_hinglish
+क्लाइंट से फीडबैक आया?,klaimta se phidabaika aya?,hi_to_hinglish
+ब्रेकफास्ट में क्या खाया तुमने?,brekaphasta mem kya khaya tumane?,hi_to_hinglish
+स्ट्रेचिंग कर ली सुबह?,strecimga kara li subaha?,hi_to_hinglish
+सिर दर्द हो रहा है क्या?,sira darda ho raha hai kya?,hi_to_hinglish
+टेबलेट ले ली दर्द की?,tebaleta le li darda ki?,hi_to_hinglish
+आज का हेडलाइन क्या पढ़ा?,aja ka hedalaina kya par3ha?,hi_to_hinglish
+पार्किंग फ्री है क्या?,parkimga phri hai kya?,hi_to_hinglish
+पार्किंग फ्री है क्या?,parkimga phri hai kya? yaar,hi_to_hinglish
+लिफ्ट में जगह है?,liphta mem jagaha hai?,hi_to_hinglish
+वेबकैम टेस्ट कर लिया?,vebakaima testa kara liya?,hi_to_hinglish
+वेबकैम टेस्ट कर लिया?,vebakaima testa kara liya? yaar,hi_to_hinglish
+वेबकैम टेस्ट कर लिया?,vebakaima testa kara liya? bhai,hi_to_hinglish
+प्रेजेंटेशन स्लाइड्स तैयार हैं?,prejemtezana slaidsa taiyara haim?,hi_to_hinglish
+अगली मीटिंग कब है?,agali mitimga kaba hai?,hi_to_hinglish
+टास्क असाइन हो गया?,taska asaina ho gaya?,hi_to_hinglish
+होमवर्क चेक कर लिया?,homavarka ceka kara liya?,hi_to_hinglish
+बच्चे का स्कूल बस आ गई?,bacce ka skula basa a gai?,hi_to_hinglish
+बच्चे का स्कूल बस आ गई?,bacce ka skula basa a gai? bhai,hi_to_hinglish
+बच्चे का स्कूल बस आ गई?,bacce ka skula basa a gai? yaar,hi_to_hinglish
+दाल में जीरा डाला?,dala mem jira dala?,hi_to_hinglish
+दाल में जीरा डाला?,dala mem jira dala? na,hi_to_hinglish
+सपनों में क्या देखा कल?,sapanom mem kya dekha kala?,hi_to_hinglish
+डायरी लिख ली आज?,dayari likha li aja?,hi_to_hinglish
+डायरी लिख ली आज?,dayari likha li aja? bhai,hi_to_hinglish
+परिवार को अपडेट दे दिया?,parivara ko apadeta de diya?,hi_to_hinglish
+परिवार को अपडेट दे दिया?,parivara ko apadeta de diya? yaar,hi_to_hinglish
+मम्मी का हाल पूछ लिया?,mammi ka hala pucha liya?,hi_to_hinglish
+भाई को मदद चाहिए?,bhai ko madada cahie?,hi_to_hinglish
+पड़ोसी से मिल आए?,par3osi se mila ae?,hi_to_hinglish
+पड़ोसी से मिल आए?,par3osi se mila ae? yaar,hi_to_hinglish
+गार्ड को टिप दे दी?,garda ko tipa de di?,hi_to_hinglish
+बिल्ली को दूध दे दिया?,billi ko dudha de diya?,hi_to_hinglish
+डस्टबिन खाली कर आए?,dastabina khali kara ae?,hi_to_hinglish
+डस्टबिन खाली कर आए?,dastabina khali kara ae? yaar,hi_to_hinglish
+रसोई का सिंक साफ है?,rasoi ka simka sapha hai?,hi_to_hinglish
+आज तुम्हारा मूड कैसा है?,aja tumhara muda kaisa hai?,hi_to_hinglish
+आज तुम्हारा मूड कैसा है?,aja tumhara muda kaisa hai? bhai,hi_to_hinglish
+क्या कोई अच्छी खबर है?,kya koi acchi khabara hai?,hi_to_hinglish
+मन में क्या चल रहा है?,mana mem kya cala raha hai?,hi_to_hinglish
+मन में क्या चल रहा है?,mana mem kya cala raha hai? yaar,hi_to_hinglish
+आज कुछ स्पेशल प्लान है?,aja kucha spezala plana hai?,hi_to_hinglish
+आज कुछ स्पेशल प्लान है?,aja kucha spezala plana hai? bhai,hi_to_hinglish
+ब्रेकफास्ट में अंडा खाओगे?,brekaphasta mem amda khaoge?,hi_to_hinglish
+फ्रूट स्मूदी पीना है?,phruta smudi pina hai?,hi_to_hinglish
+फ्रूट स्मूदी पीना है?,phruta smudi pina hai? yaar,hi_to_hinglish
+"पिज्जा या चाइनीज, क्या पसंद है?","pijja ya cainija, kya pasamda hai?",hi_to_hinglish
+ट्रेन पकड़नी है क्या?,trena pakar3ani hai kya?,hi_to_hinglish
+चाय वाला आया क्या?,caya vala aya kya?,hi_to_hinglish
+बेंच पर जगह है क्या?,bemca para jagaha hai kya?,hi_to_hinglish
+घर का मुख्य दरवाजा बंद है?,ghara ka mukhya daravaja bamda hai?,hi_to_hinglish
+इलेक्ट्रिक बिल का ड्यू डेट क्या है?,ilektrika bila ka dyu deta kya hai?,hi_to_hinglish
+इलेक्ट्रिक बिल का ड्यू डेट क्या है?,ilektrika bila ka dyu deta kya h?,hi_to_hinglish
+स्क्रीन शेयर करोगे?,skrina zeyara karoge?,hi_to_hinglish
+साइन कर दिया पेपर पर?,saina kara diya pepara para?,hi_to_hinglish
+क्लाउड में सेव हो गया?,klauda mem seva ho gaya?,hi_to_hinglish
+क्लाउड में सेव हो गया?,klauda mem seva ho gaya? yaar,hi_to_hinglish
+टाइम टेबल बना लिया?,taima tebala bana liya?,hi_to_hinglish
+प्रोग्रेस ट्रैक कर रहे हो?,progresa traika kara rahe ho?,hi_to_hinglish
+प्रोग्रेस ट्रैक कर रहे हो?,progresa traika kara rahe ho? bro,hi_to_hinglish
+Let's watch a movie,chalo movie dekhte hn,en_to_hinglish
+Come fast,jaldi aao yaar,en_to_hinglish
+I don't like it,mujhe yeh pasand nahi,en_to_hinglish
+I am busy,main busy hoon,en_to_hinglish
+All the best,all the best,en_to_hinglish
+No tension,koi tension nahi,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hain,en_to_hinglish
+I am late,main late ho gaya,en_to_hinglish
+I am at home,main ghar par hoon bro,en_to_hinglish
+Be positive,positive raho,en_to_hinglish
+How old are you,tum kitne saal ke ho,en_to_hinglish
+I am at home,main ghar par hoon,en_to_hinglish
+I will call you,main tumhe call karunga,en_to_hinglish
+I am coming,main aa raha hoon,en_to_hinglish
+I am happy,main khush hoon,en_to_hinglish
+Where do you live,tum kahan rehte ho,en_to_hinglish
+It's very cold,bahut thand hai bhai,en_to_hinglish
+I am with you,main tumhare saath hoon,en_to_hinglish
+Where are you,tum kahan ho,en_to_hinglish
+Don't lie,jhoot mat bolna yaar,en_to_hinglish
+Speak slowly,dhire bolna,en_to_hinglish
+Be positive,positive raho bhai,en_to_hinglish
+Where are you,tum kahan ho bro,en_to_hinglish
+Relax,relax karo na,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai,en_to_hinglish
+I am happy,main khush hoon bro,en_to_hinglish
+Everything will be fine,sab theek ho jayega yaar,en_to_hinglish
+Where is my phone,mera phone kahan hai,en_to_hinglish
+Take rest,aaram kar lo,en_to_hinglish
+Let's eat,chalo khana khate hain,en_to_hinglish
+Take your time,aram se time lo,en_to_hinglish
+Charge your phone,phone charge kar lo,en_to_hinglish
+Feel free,feel free,en_to_hinglish
+It's too hot,bahut garmi hai,en_to_hinglish
+What happened,kya hua,en_to_hinglish
+Take rest,aaram kar lo yaar,en_to_hinglish
+I am bored,mujhe bore ho raha hai bhai,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai bhai,en_to_hinglish
+This is good,yeh accha hai,en_to_hinglish
+Meet me at 5,5 baje milna,en_to_hinglish
+Repeat please,dubara bolo na,en_to_hinglish
+Stay safe,surakshit rehna,en_to_hinglish
+Good morning,good morning yaar,en_to_hinglish
+Congratulations,"congratulations, badhai ho bhai",en_to_hinglish
+This is expensive,yeh mehnga hai,en_to_hinglish
+I love you,main tumse pyar karta hoon,en_to_hinglish
+I am tired,main thak gaya hoon na,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai,en_to_hinglish
+I believe you,mujhe tum par vishwas hai,en_to_hinglish
+I am full,mera pet bhar gaya,en_to_hinglish
+I am excited,main bahut excited hoon,en_to_hinglish
+Please help me,please mujhe madad karo,en_to_hinglish
+I disagree,main disagree karta hoon bhai,en_to_hinglish
+Hurry up,jaldi karo,en_to_hinglish
+It's okay,theek hai,en_to_hinglish
+Call me later,baad mein call karna,en_to_hinglish
+How are you,tum kaise ho,en_to_hinglish
+My name is Aryan,mera naam aryan hai,en_to_hinglish
+Wait for me,mera intezar karo,en_to_hinglish
+It's raining,baarish ho rahi hai,en_to_hinglish
+Let's go,chalo chalte hn,en_to_hinglish
+What happened,kya hua na,en_to_hinglish
+What are you doing,kya kar rahe ho,en_to_hinglish
+Open the door,darwaza kholo,en_to_hinglish
+I have to go,mujhe jaana hai bhai,en_to_hinglish
+Turn off the light,light band kar do,en_to_hinglish
+Drive carefully,sambhal ke chalana na,en_to_hinglish
+No thanks,nahi thanks,en_to_hinglish
+It's cheap,yeh sasta hai,en_to_hinglish
+Give me five minutes,mujhe paanch minute do,en_to_hinglish
+Calm down,shant ho jao,en_to_hinglish
+I am ready,main ready hoon,en_to_hinglish
+Don't give up,haar mat maanna na,en_to_hinglish
+Wait for me,mera intezar karo yaar,en_to_hinglish
+Can you help me,kya tum meri madad kar sakte ho,en_to_hinglish
+Relax,relax karo bhai,en_to_hinglish
+I disagree,main disagree karta hoon,en_to_hinglish
+I am fine,main theek hoon,en_to_hinglish
+What do you do,tum kya karte ho,en_to_hinglish
+I am hungry,mujhe bhook lagi hai,en_to_hinglish
+Trust me,mujh par bharosa karo,en_to_hinglish
+The food is tasty,khana bahut tasty hai na,en_to_hinglish
+See you tomorrow,kal milte hain bro,en_to_hinglish
+Don't give up,haar mat maanna,en_to_hinglish
+Try again,dubara try karo,en_to_hinglish
+I agree,main agree karta hoon,en_to_hinglish
+Congratulations,"congratulations, badhai ho",en_to_hinglish
+I need water,mujhe pani chahiye,en_to_hinglish
+I am at home,main ghar par hoon yaar,en_to_hinglish
+No problem,koi baat nahi yaar,en_to_hinglish
+I disagree,main disagree karta hoon bro,en_to_hinglish
+Good night,"good night, so jao",en_to_hinglish
+Sorry,sorry ya maaf karna,en_to_hinglish
+Send me the details,mujhe details bhej do,en_to_hinglish
+It's possible,yeh possible hai,en_to_hinglish
+Drive carefully,sambhal ke chalana,en_to_hinglish
+What is your name,tumhara naam kya hai yaar,en_to_hinglish
+Feel free,feel free yaar,en_to_hinglish
+I have to go,mujhe jaana hai,en_to_hinglish
+Yes please,haan please,en_to_hinglish
+This is difficult,yeh mushkil hai,en_to_hinglish
+I believe you,mujhe tum par vishwas hai na,en_to_hinglish
+I am sleepy,mujhe neend aa rahi hai,en_to_hinglish
+Thank you so much,bahut bahut shukriya,en_to_hinglish
+It's very cold,bahut thand hai,en_to_hinglish
+What is your name,tumhara naam kya hai,en_to_hinglish
+Thank you so much,bahut bahut shukriya bro,en_to_hinglish
+Everything will be fine,sab theek ho jayega,en_to_hinglish
+Let's go,chalo chalte hain,en_to_hinglish
+Stay safe,surakshit rehna yaar,en_to_hinglish
+Yes please,haan please na,en_to_hinglish
+Wait for me,mera intezar karo bro,en_to_hinglish
+I am happy,main khush hoon yaar,en_to_hinglish
+I am 25 years old,main 25 saal ka hoon,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai,en_to_hinglish
+Don't worry,chinta mat karo bro,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hain bro,en_to_hinglish
+It's urgent,yeh urgent hai,en_to_hinglish
+Where is my phone,mera phone kahan hai bro,en_to_hinglish
+I need water,mujhe pani chahiye bhai,en_to_hinglish
+I forgot,main bhool gaya,en_to_hinglish
+Charge your phone,phone charge kar lo yaar,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hain yaar,en_to_hinglish
+I am bored,mujhe bore ho raha hai na,en_to_hinglish
+I am a student,main student hoon,en_to_hinglish
+Send me the details,mujhe details bhej do yaar,en_to_hinglish
+Let's meet soon,jaldi milte hain,en_to_hinglish
+I am tired,main thak gaya hoon,en_to_hinglish
+I am 25 years old,main 25 saal ka hoon yaar,en_to_hinglish
+It's cheap,yeh sasta hai bhai,en_to_hinglish
+I am angry,mujhe gussa aa raha hai,en_to_hinglish
+I am fine,main theek hoon bhai,en_to_hinglish
+Relax,relax karo,en_to_hinglish
+I need water,mujhe pani chahiye na,en_to_hinglish
+Good morning,good morning,en_to_hinglish
+Don't lie,jhoot mat bolna,en_to_hinglish
+Sorry,sorry ya maaf karna yaar,en_to_hinglish
+I am late,main late ho gaya na,en_to_hinglish
+Try again,dubara try karo yaar,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai yaar,en_to_hinglish
+My name is Aryan,mera naam aryan hai bhai,en_to_hinglish
+Take care,apna khayal rakhna,en_to_hinglish
+I am happy,main khush hoon na,en_to_hinglish
+It's raining,baarish ho rahi hai bhai,en_to_hinglish
+This is good,yeh accha hai bro,en_to_hinglish
+Don't worry,chinta mat karo,en_to_hinglish
+All the best,all the best yaar,en_to_hinglish
+Open the door,darwaza kholo bhai,en_to_hinglish
+I forgot,main bhool gaya na,en_to_hinglish
+Drive carefully,sambhal ke chalana yaar,en_to_hinglish
+No problem,koi baat nahi,en_to_hinglish
+Come fast,jaldi aao bhai,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai yaar,en_to_hinglish
+I am sleepy,mujhe neend aa rahi hai bhai,en_to_hinglish
+I am full,mera pet bhar gaya bro,en_to_hinglish
+See you tomorrow,kal milte hain,en_to_hinglish
+Where do you live,tum kahan rehte ho yaar,en_to_hinglish
+All the best,all the best bhai,en_to_hinglish
+Come fast,jaldi aao,en_to_hinglish
+Thank you so much,bahut bahut shukriya na,en_to_hinglish
+Where are you,tum kahan ho yaar,en_to_hinglish
+Meet me at 5,5 baje milna bhai,en_to_hinglish
+It's too hot,bahut garmi hai bro,en_to_hinglish
+It's okay,theek hai bro,en_to_hinglish
+Where are you,tum kahan ho bhai,en_to_hinglish
+No tension,koi tension nahi yaar,en_to_hinglish
+Where is my phone,mera phone kahan hai bhai,en_to_hinglish
+Meet me at 5,5 baje milna yaar,en_to_hinglish
+Let's eat,chalo khana khate hain bhai,en_to_hinglish
+Charge your phone,phone charge kar lo na,en_to_hinglish
+Take your time,aram se time lo na,en_to_hinglish
+Stay safe,surakshit rehna bro,en_to_hinglish
+Let's meet soon,jaldi milte hain bro,en_to_hinglish
+The food is tasty,khana bahut tasty hai,en_to_hinglish
+I am sleepy,mujhe neend aa rahi hai bro,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai yaar,en_to_hinglish
+Good night,"good night, so jao bro",en_to_hinglish
+I have to go,mujhe jaana hai na,en_to_hinglish
+Repeat please,dubara bolo na yaar,en_to_hinglish
+Drive carefully,sambhal ke chalana bhai,en_to_hinglish
+See you tomorrow,kal milte hain na,en_to_hinglish
+Speak slowly,dhire bolna bro,en_to_hinglish
+All the best,all the best bro,en_to_hinglish
+I am a student,main student hoon bro,en_to_hinglish
+Trust me,mujh par bharosa karo yaar,en_to_hinglish
+I am bored,mujhe bore ho raha hai,en_to_hinglish
+How old are you,tum kitne saal ke ho bro,en_to_hinglish
+I am coming,main aa raha hoon bro,en_to_hinglish
+Take your time,aram se time lo yaar,en_to_hinglish
+Congratulations,"congratulations, badh ho",en_to_hinglish
+Repeat please,dubara bolo na bhai,en_to_hinglish
+This is expensive,yeh mehnga hai bro,en_to_hinglish
+I am ready,main ready hoon bro,en_to_hinglish
+Let's meet soon,jaldi milte hn,en_to_hinglish
+The food is tasty,khana bahut tasty hai yaar,en_to_hinglish
+I love you,main tumse pyar karta hoon bhai,en_to_hinglish
+Open the door,darwaza kholo na,en_to_hinglish
+I am a student,main student hoon na,en_to_hinglish
+Let's meet soon,jaldi milte hain na,en_to_hinglish
+Let's eat,chalo khana khate hain na,en_to_hinglish
+What happened,kya hua bhai,en_to_hinglish
+My name is Aryan,mera naam aryan hai na,en_to_hinglish
+Try again,dubara try karo bhai,en_to_hinglish
+I am 25 years old,main 25 saal ka hoon bhai,en_to_hinglish
+Take rest,aaram kar lo na,en_to_hinglish
+I don't like it,mujhe yeh pasand nahi na,en_to_hinglish
+I believe you,mujhe tum par vishwas hai bhai,en_to_hinglish
+Take care,apna khayal rakhna bro,en_to_hinglish
+It's possible,yeh possible hai bro,en_to_hinglish
+This is difficult,yeh mushkil hai bro,en_to_hinglish
+No tension,koi tension nahi na,en_to_hinglish
+Speak slowly,dhire bolna na,en_to_hinglish
+Hurry up,jaldi karo bhai,en_to_hinglish
+I am ready,main ready hoon yaar,en_to_hinglish
+Where is my phone,mera phone kahan hai na,en_to_hinglish
+It's urgent,yeh urgent hai yaar,en_to_hinglish
+Please help me,please mujhe madad karo bhai,en_to_hinglish
+Please help me,please mujhe madad karo bro,en_to_hinglish
+I am with you,main tumhare saath hoon bhai,en_to_hinglish
+I will call you,main tumhe call karunga yaar,en_to_hinglish
+See you tomorrow,kal milte hn,en_to_hinglish
+Don't give up,haar mat maanna yaar,en_to_hinglish
+Where do you live,tum kahan rehte ho bhai,en_to_hinglish
+Call me later,baad mein call karna yaar,en_to_hinglish
+I love you,main tumse pyar karta hoon yaar,en_to_hinglish
+I forgot,main bhool gaya bhai,en_to_hinglish
+I am fine,main theek hoon yaar,en_to_hinglish
+I need water,mujhe pani chahiye yaar,en_to_hinglish
+No tension,koi tension nahi bhai,en_to_hinglish
+I am hungry,mujhe bhook lagi hai yaar,en_to_hinglish
+I believe you,mujhe tum par vishwas hai bro,en_to_hinglish
+Drive carefully,sambhal ke chalana bro,en_to_hinglish
+I am full,mera pet bhar gaya na,en_to_hinglish
+I am full,mera pet bhar gaya bhai,en_to_hinglish
+What do you do,tum kya karte ho na,en_to_hinglish
+Be positive,positive raho bro,en_to_hinglish
+I will call you,main tumhe call karunga na,en_to_hinglish
+It's possible,yeh possible hai bhai,en_to_hinglish
+I am sleepy,mujhe neend aa rahi hai na,en_to_hinglish
+It's okay,theek hai na,en_to_hinglish
+It's raining,baarish ho rahi hai yaar,en_to_hinglish
+Good morning,good morning bhai,en_to_hinglish
+This is difficult,yeh mushkil hai na,en_to_hinglish
+This is expensive,yeh mehnga hai yaar,en_to_hinglish
+Good morning,good morning bro,en_to_hinglish
+I am busy,main busy hoon bhai,en_to_hinglish
+Open the door,darwaza kholo bro,en_to_hinglish
+No problem,koi baat nahi bhai,en_to_hinglish
+Give me five minutes,mujhe paanch minute do na,en_to_hinglish
+The food is tasty,khana bahut tasty hai bro,en_to_hinglish
+I am 25 years old,main 25 saal ka hoon bro,en_to_hinglish
+It's okay,theek hai yaar,en_to_hinglish
+I am tired,main thak gaya hoon yaar,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai bro,en_to_hinglish
+Wait for me,mera intezar karo na,en_to_hinglish
+How are you,tum kaise ho yaar,en_to_hinglish
+Send me the details,mujhe details bhej do na,en_to_hinglish
+I disagree,main disagree karta hoon na,en_to_hinglish
+Feel free,feel free na,en_to_hinglish
+It's raining,baarish ho rahi hai na,en_to_hinglish
+Yes please,haan please bro,en_to_hinglish
+I agree,main agree karta hoon na,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai na,en_to_hinglish
+Give me five minutes,mujhe paanch minute do bhai,en_to_hinglish
+Good night,"good night, so jao yaar",en_to_hinglish
+I forgot,main bhool gaya yaar,en_to_hinglish
+My name is Aryan,mera naam aryan hai bro,en_to_hinglish
+Repeat please,dubara bolo na na,en_to_hinglish
+Can you help me,kya tum meri madad kar sakte ho yaar,en_to_hinglish
+Try again,dubara try karo bro,en_to_hinglish
+Sorry,sorry ya maaf karna na,en_to_hinglish
+What do you do,tum kya karte ho yaar,en_to_hinglish
+Send me the details,mujhe details bhej do bhai,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai bhai,en_to_hinglish
+It's raining,baarish ho rahi hai bro,en_to_hinglish
+Send me the details,mujhe details bhej do bro,en_to_hinglish
+I am late,main late ho gaya bro,en_to_hinglish
+Calm down,shant ho jao yaar,en_to_hinglish
+I am late,main late ho gaya bhai,en_to_hinglish
+Good night,"good night, so jao na",en_to_hinglish
+I am angry,mujhe gussa aa raha hai yaar,en_to_hinglish
+Charge your phone,phone charge kar lo bro,en_to_hinglish
+Take rest,aaram kar lo bro,en_to_hinglish
+It's very cold,bahut thand hai yaar,en_to_hinglish
+I am with you,main tumhare saath hoon na,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hain bhai,en_to_hinglish
+It's cheap,yeh sasta hai yaar,en_to_hinglish
+I am a student,main student hoon yaar,en_to_hinglish
+Please help me,please mujhe madad karo yaar,en_to_hinglish
+Let's meet soon,jaldi milte hain bhai,en_to_hinglish
+I will call you,main tumhe call karunga bro,en_to_hinglish
+How old are you,tum kitne saal ke ho yaar,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai bro,en_to_hinglish
+Come fast,jaldi aao bro,en_to_hinglish
+Wait for me,mera intezar karo bhai,en_to_hinglish
+Call me later,baad mein call karna na,en_to_hinglish
+What do you do,tum kya karte ho bhai,en_to_hinglish
+Stay safe,surakshit rehna na,en_to_hinglish
+Thank you so much,bahut bahut shukriya yaar,en_to_hinglish
+No thanks,nahi thanks bhai,en_to_hinglish
+Calm down,shant ho jao bhai,en_to_hinglish
+Be positive,positive raho yaar,en_to_hinglish
+I have to go,mujhe jaana hai yaar,en_to_hinglish
+It's too hot,bahut garmi hai yaar,en_to_hinglish
+Let's eat,chalo khana khate hain bro,en_to_hinglish
+Where is my phone,mera phone kahan hai yaar,en_to_hinglish
+Sorry,sorry ya maaf karna bhai,en_to_hinglish
+Let's meet soon,jaldi milte hain yaar,en_to_hinglish
+I am at home,main ghar par hoon na,en_to_hinglish
+I am coming,main aa raha hoon yaar,en_to_hinglish
+Hurry up,jaldi karo na,en_to_hinglish
+Let's go,chalo chalte hain bro,en_to_hinglish
+It's urgent,yeh urgent hai na,en_to_hinglish
+Can you help me,kya tum meri madad kar sakte ho na,en_to_hinglish
+It's possible,yeh possible hai na,en_to_hinglish
+Let's go,chalo chalte hain bhai,en_to_hinglish
+I am tired,main thak gaya hoon bro,en_to_hinglish
+Don't lie,jhoot mat bolna bhai,en_to_hinglish
+Try again,dubara try karo na,en_to_hinglish
+Take care,apna khayal rakhna yaar,en_to_hinglish
+It's very cold,bahut thand hai na,en_to_hinglish
+No thanks,nahi thanks na,en_to_hinglish
+It's urgent,yeh urgent hai bhai,en_to_hinglish
+Relax,relax karo yaar,en_to_hinglish
+I am late,main late ho gaya yaar,en_to_hinglish
+It's urgent,yeh urgent hai bro,en_to_hinglish
+What happened,kya hua bro,en_to_hinglish
+Turn off the light,light band kar do bro,en_to_hinglish
+I am fine,main theek hoon na,en_to_hinglish
+Turn off the light,light band kar do yaar,en_to_hinglish
+See you tomorrow,kal milte hain bhai,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai bro,en_to_hinglish
+No tension,koi tension nahi bro,en_to_hinglish
+No thanks,nahi thanks yaar,en_to_hinglish
+Hurry up,jaldi karo yaar,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai na,en_to_hinglish
+Turn off the light,light band kar do na,en_to_hinglish
+Relax,relax karo bro,en_to_hinglish
+Let's eat,chalo khana khate hn,en_to_hinglish
+This is difficult,yeh mushkil hai yaar,en_to_hinglish
+Where do you live,tum kahan rehte ho bro,en_to_hinglish
+No problem,koi baat nahi bro,en_to_hinglish
+I am ready,main ready hoon bhai,en_to_hinglish
+What are you doing,kya kar rahe ho yaar,en_to_hinglish
+I need water,mujhe pani chahiye bro,en_to_hinglish
+I am coming,main aa raha hoon na,en_to_hinglish
+It's cheap,yeh sasta hai bro,en_to_hinglish
+Thank you so much,bahut bahut shukriya bhai,en_to_hinglish
+Stay safe,surakshit rehna bhai,en_to_hinglish
+It's okay,theek hai bhai,en_to_hinglish
+Take rest,aaram kar lo bhai,en_to_hinglish
+What are you doing,kya kar rahe ho bhai,en_to_hinglish
+Don't worry,chinta mat karo yaar,en_to_hinglish
+I don't like it,mujhe yeh pasand nahi bro,en_to_hinglish
+The food is tasty,khana bahut tasty hai bhai,en_to_hinglish
+Feel free,feel free bro,en_to_hinglish
+I am bored,mujhe bore ho raha hai yaar,en_to_hinglish
+How are you,tum kaise ho na,en_to_hinglish
+I agree,main agree karta hoon yaar,en_to_hinglish
+Where do you live,tum kahan rehte ho na,en_to_hinglish
+I love you,main tumse pyar karta hoon na,en_to_hinglish
+I am at home,main ghar par hoon bhai,en_to_hinglish
+Call me later,baad mein call karna bro,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai na,en_to_hinglish
+Let's go,chalo chalte hain na,en_to_hinglish
+Congratulations,"congratulations, badhai ho bro",en_to_hinglish
+Good morning,good morning na,en_to_hinglish
+I am hungry,mujhe bhook lagi hai bhai,en_to_hinglish
+I am excited,main bahut excited hoon bhai,en_to_hinglish
+Don't give up,haar mat maanna bhai,en_to_hinglish
+Yes please,haan please yaar,en_to_hinglish
+Trust me,mujh par bharosa karo bhai,en_to_hinglish
+This is good,yeh accha hai na,en_to_hinglish
+I am with you,main tumhare saath hoon bro,en_to_hinglish
+Speak slowly,dhire bolna bhai,en_to_hinglish
+I don't like it,mujhe yeh pasand nahi bhai,en_to_hinglish
+How old are you,tum kitne saal ke ho bhai,en_to_hinglish
+I am busy,main busy hoon na,en_to_hinglish
+Calm down,shant ho jao na,en_to_hinglish
+Good night,"good night, so jao bhai",en_to_hinglish
+Please help me,please mujhe madad karo na,en_to_hinglish
+Everything will be fine,sab theek ho jayega bro,en_to_hinglish
+I am hungry,mujhe bhook lagi hai na,en_to_hinglish
+This is good,yeh accha hai yaar,en_to_hinglish
+Don't worry,chinta mat karo na,en_to_hinglish
+What is your name,tumhara naam kya hai bhai,en_to_hinglish
+I believe you,mujhe tum par vishwas hai yaar,en_to_hinglish
+What is your name,tumhara naam kya hai bro,en_to_hinglish
+No problem,koi baat nahi na,en_to_hinglish
+Take your time,aram se time lo bro,en_to_hinglish
+I am angry,mujhe gussa aa raha hai bro,en_to_hinglish
+I am hungry,mujhe bhook lagi hai bro,en_to_hinglish
+Meet me at 5,5 baje milna na,en_to_hinglish
+Be positive,positive raho na,en_to_hinglish
+Come fast,jaldi aao na,en_to_hinglish
+Trust me,mujh par bharosa karo na,en_to_hinglish
+I forgot,main bhool gaya bro,en_to_hinglish
+Don't lie,jhoot mat bolna na,en_to_hinglish
+This is expensive,yeh mehnga hai na,en_to_hinglish
+It's very cold,bahut thand hai bro,en_to_hinglish
+I am a student,main student hoon bhai,en_to_hinglish
+Yes please,haan please bhai,en_to_hinglish
+Congratulations,"congratulations, badhai ho yaar",en_to_hinglish
+What happened,kya hua yaar,en_to_hinglish
+I am fine,main theek hoon bro,en_to_hinglish
+I agree,main agree karta hoon bhai,en_to_hinglish
+Let's go,chalo chalte hain yaar,en_to_hinglish
+Can you help me,kya tum meri madad kar sakte ho bro,en_to_hinglish
+Take care,apna khayal rakhna na,en_to_hinglish
+I am coming,main aa raha hoon bhai,en_to_hinglish
+Sorry,sorry ya maaf karna bro,en_to_hinglish
+It's too hot,bahut garmi hai bhai,en_to_hinglish
+Where are you,tum kahan ho na,en_to_hinglish
+Calm down,shant ho jao bro,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai bhai,en_to_hinglish
+Give me five minutes,mujhe paanch minute do bro,en_to_hinglish
+I am bored,mujhe bore ho raha hai bro,en_to_hinglish
