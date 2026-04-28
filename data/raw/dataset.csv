@@ -17,9 +17,9 @@ input,target,type
 आज जल्दी घर आना।,aaj jaldi ghar aana.,hi_to_hinglish
 दूध लाते समय ब्रेड भी ले आना।,doodh laate time bread bhi le aana.,hi_to_hinglish
 तुम्हारा फोन कहाँ है?,tumhara phone kahan hai?,hi_to_hinglish
-तुम्हारा फोन कहाँ है?,tumhara phone kahan h?,hi_to_hinglish
 मैं थोड़ा व्यस्त हूँ।,main thoda busy hoon.,hi_to_hinglish
 कल क्या प्लान है?,kal kya plan hai?,hi_to_hinglish
+कल क्या प्लान है?,kal kya plan h?,hi_to_hinglish
 पानी पी लो।,paani pee lo.,hi_to_hinglish
 भूख लगी है क्या?,bhookh lagi hai kya?,hi_to_hinglish
 अच्छे से खाना खाओ।,acche se khana khao.,hi_to_hinglish
@@ -56,14 +56,16 @@ input,target,type
 टिफिन ले जाना मत भूलना।,tiffin le jaana mat bhoolna.,hi_to_hinglish
 मैं शॉपिंग जा रही हूँ।,main shopping ja rahi hoon.,hi_to_hinglish
 नई ड्रेस अच्छी लग रही है।,nayi dress acchi lag rahi hai.,hi_to_hinglish
+नई ड्रेस अच्छी लग रही है।,nayi dress acchi lag rahi h.,hi_to_hinglish
 बाल कटवाने हैं।,baal katwane hain.,hi_to_hinglish
+बाल कटवाने हैं।,baal katwane hn.,hi_to_hinglish
 दाढ़ी बना लो।,daadhi bana lo.,hi_to_hinglish
 जूते कहाँ रखे हैं?,jootey kahan rakhe hain?,hi_to_hinglish
-जूते कहाँ रखे हैं?,jootey kahan rakhe hn?,hi_to_hinglish
 गाड़ी की चाबी दो।,gaadi ki chaabi do.,hi_to_hinglish
 पेट्रोल भरवा लो।,petrol bharwa lo.,hi_to_hinglish
 आज मीटिंग है क्या?,aaj meeting hai kya?,hi_to_hinglish
 रिपोर्ट तैयार है?,report ready hai?,hi_to_hinglish
+रिपोर्ट तैयार है?,report ready h?,hi_to_hinglish
 काम पूरा हो गया?,kaam pura ho gaya?,hi_to_hinglish
 थोड़ा ब्रेक ले लो।,thoda break le lo.,hi_to_hinglish
 कॉफी पीनी है?,coffee peeni hai?,hi_to_hinglish
@@ -112,12 +114,11 @@ input,target,type
 कमेंट कर दिया।,comment kar diya.,hi_to_hinglish
 तुम्हारा पोस्ट देखा।,tumhara post dekha.,hi_to_hinglish
 बहुत प्यारा लग रहा है।,bahut pyara lag raha hai.,hi_to_hinglish
-बहुत प्यारा लग रहा है।,bahut pyara lag rha h.,hi_to_hinglish
 बच्चे कहाँ हैं?,bacche kahan hain?,hi_to_hinglish
-बच्चे कहाँ हैं?,bacche kahan hn?,hi_to_hinglish
 होमवर्क पूरा किया?,homework pura kiya?,hi_to_hinglish
 खेलने मत जाओ अभी।,khelne mat jao abhi.,hi_to_hinglish
 समय हो गया है।,time ho gaya hai.,hi_to_hinglish
+समय हो गया है।,time ho gaya h.,hi_to_hinglish
 सोने का समय।,sone ka time.,hi_to_hinglish
 कहानी सुनाऊँ?,kahani sunaun?,hi_to_hinglish
 गाना गाओ ना।,gaana gao na.,hi_to_hinglish
@@ -126,6 +127,7 @@ input,target,type
 क्या हुआ?,kya hoona?,hi_to_hinglish
 मैं हूँ ना।,main hoon na.,hi_to_hinglish
 डरने की कोई बात नहीं।,darrne ki koi baat nahi.,hi_to_hinglish
+डरने की कोई बात नहीं।,darrne ki koi baat nhi.,hi_to_hinglish
 सब ठीक है।,sab theek hai.,hi_to_hinglish
 डॉक्टर को दिखा लो।,doctor ko dikha lo.,hi_to_hinglish
 दवा ले ली?,dawa le li?,hi_to_hinglish
@@ -136,6 +138,7 @@ input,target,type
 सब्जी अच्छी है।,sabzi acchi hai.,hi_to_hinglish
 स्वादिष्ट बना है।,swadisht bana hai.,hi_to_hinglish
 नमक कम है।,namak kam hai.,hi_to_hinglish
+नमक कम है।,namak kam h.,hi_to_hinglish
 और रोटी लूँ?,aur roti loon?,hi_to_hinglish
 बस हो गया।,bas ho gaya.,hi_to_hinglish
 पेट भर गया।,pet bhar gaya.,hi_to_hinglish
@@ -150,12 +153,12 @@ input,target,type
 बिजली चली गई।,bijli chali gayi.,hi_to_hinglish
 इन्वर्टर ऑन कर दो।,inverter on kar do.,hi_to_hinglish
 वाईफाई पासवर्ड क्या है?,wifi password kya hai?,hi_to_hinglish
+वाईफाई पासवर्ड क्या है?,wifi password kya h?,hi_to_hinglish
 इंटरनेट धीमा है।,internet dheema hai.,hi_to_hinglish
 रिचार्ज करवा दिया?,recharge karwa diya?,hi_to_hinglish
 बैलेंस चेक कर लो।,balance check kar lo.,hi_to_hinglish
 OTP भेजो।,otp bhejo.,hi_to_hinglish
 पिन याद है?,pin yaad hai?,hi_to_hinglish
-पिन याद है?,pin yaad h?,hi_to_hinglish
 लॉक लगा दो।,lock laga do.,hi_to_hinglish
 कुत्ता भौंक रहा है।,kutta bhaunk raha hai.,hi_to_hinglish
 पड़ोसी आए थे।,padosi aaye the.,hi_to_hinglish
@@ -182,7 +185,6 @@ OTP भेजो।,otp bhejo.,hi_to_hinglish
 पेमेंट कर दिया।,payment kar diya.,hi_to_hinglish
 थैंक यू।,thank you.,hi_to_hinglish
 फिर मिलते हैं।,phir milte hain.,hi_to_hinglish
-फिर मिलते हैं।,phir milte hn.,hi_to_hinglish
 गुड नाइट।,good night.,hi_to_hinglish
 स्वीट ड्रीम्स।,sweet dreams.,hi_to_hinglish
 सुबह मिलते हैं।,subah milte hain.,hi_to_hinglish
@@ -213,14 +215,14 @@ OTP भेजो।,otp bhejo.,hi_to_hinglish
 कुछ नया बताओ।,kuch naya batao.,hi_to_hinglish
 "हाँ, बिल्कुल।","haan, bilkul.",hi_to_hinglish
 नहीं भाई।,nahi bhai.,hi_to_hinglish
+नहीं भाई।,nhi bh.,hi_to_hinglish
 शायद।,shayad.,hi_to_hinglish
 मुझे नहीं पता।,mujhe nahi pata.,hi_to_hinglish
-मुझे नहीं पता।,mujhe nhi pata.,hi_to_hinglish
 सोचता हूँ।,sochta hoon.,hi_to_hinglish
 ठीक है।,theek hai.,hi_to_hinglish
-ठीक है।,theek h.,hi_to_hinglish
 "चलो, ठीक है।","chalo, theek hai.",hi_to_hinglish
 मिलते हैं जल्दी!,milte hain jaldi!,hi_to_hinglish
+मिलते हैं जल्दी!,milte hn jaldi!,hi_to_hinglish
 कल रात बारिश हुई क्या?,kal raat baarish hooni kya?,hi_to_hinglish
 सुबह की सैर कर ली?,subah ki sair kar li?,hi_to_hinglish
 आज क्या खास बना है?,aaj kya khaas bana hai?,hi_to_hinglish
@@ -247,6 +249,7 @@ ATM से निकाल लूँ?,atm se nikaal loon?,hi_to_hinglish
 प्रेजेंटेशन तैयार कर लिया?,presentation ready kar liya?,hi_to_hinglish
 ईमेल चेक कर लिया?,email check kar liya?,hi_to_hinglish
 नया प्रोजेक्ट कब शुरू है?,naya project kab start hai?,hi_to_hinglish
+नया प्रोजेक्ट कब शुरू है?,naya project kab start h?,hi_to_hinglish
 लंच ब्रेक कब है?,lunch break kab hai?,hi_to_hinglish
 वॉटर बॉटल भर ली?,water bottle bhar li?,hi_to_hinglish
 "छाता ले जाना, बारिश हो सकती है।","chhata le jaana, baarish ho sakti hai.",hi_to_hinglish
@@ -260,7 +263,6 @@ ATM से निकाल लूँ?,atm se nikaal loon?,hi_to_hinglish
 फाइल्स ट्रांसफर कर दो।,files transfer kar do.,hi_to_hinglish
 फोटो गैलरी साफ कर लो।,photo gallery saaf kar lo.,hi_to_hinglish
 स्टोरेज फुल हो रहा है।,storage full ho raha hai.,hi_to_hinglish
-स्टोरेज फुल हो रहा है।,storage full ho rha h.,hi_to_hinglish
 "अपडेट आ गया है, कर लो।","update aa gaya hai, kar lo.",hi_to_hinglish
 पौधों को पानी दे दिया?,paudhon ko paani de diya?,hi_to_hinglish
 कुत्ता खाना खा लिया?,kutta khana kha liya?,hi_to_hinglish
@@ -269,6 +271,7 @@ ATM से निकाल लूँ?,atm se nikaal loon?,hi_to_hinglish
 कौन आया है बाहर?,kaun aaya hai bahar?,hi_to_hinglish
 मेहमान आने वाले हैं।,mehmaan aane wale hain.,hi_to_hinglish
 चाय-नाश्ता तैयार रखना।,chai-nashta ready rakhna.,hi_to_hinglish
+चाय-नाश्ता तैयार रखना।,ch-nashta ready rakhna.,hi_to_hinglish
 फ्रिज में क्या बचा है?,fridge mein kya bacha hai?,hi_to_hinglish
 सब्जी मंडी से टमाटर ले आना।,sabzi mandi se tamatar le aana.,hi_to_hinglish
 दही खत्म हो गया।,dahi khatam ho gaya.,hi_to_hinglish
@@ -301,6 +304,7 @@ ATM से निकाल लूँ?,atm se nikaal loon?,hi_to_hinglish
 पंखा तेज़ कर दो।,pankha tez kar do.,hi_to_hinglish
 AC का तापमान कम करो।,ac ka temperature kam karo.,hi_to_hinglish
 रिमोट कहाँ है?,remote kahan hai?,hi_to_hinglish
+रिमोट कहाँ है?,remote kahan h?,hi_to_hinglish
 टीवी चैनल बदल दो।,tv channel badal do.,hi_to_hinglish
 अच्छी सी फिल्म चल रही है?,acchi si film chal rahi hai?,hi_to_hinglish
 सीरियल शुरू हो गया।,serial shuru ho gaya.,hi_to_hinglish
@@ -313,10 +317,8 @@ AC का तापमान कम करो।,ac ka temperature kam karo.,hi_
 खिड़की बंद कर दो।,khidki band kar do.,hi_to_hinglish
 पर्दे खींच दो।,parde khinch do.,hi_to_hinglish
 सुबह की पहली किरण अच्छी लगती है।,subah ki pehli kiran acchi lagti hai.,hi_to_hinglish
-सुबह की पहली किरण अच्छी लगती है।,subah ki pehli kiran acchi lagti h.,hi_to_hinglish
 सूरज निकल आया।,suraj nikal aaya.,hi_to_hinglish
 पक्षी चहक रहे हैं।,pakshi chahak rahe hain.,hi_to_hinglish
-पक्षी चहक रहे हैं।,pakshi chahak rahe hn.,hi_to_hinglish
 चाय के साथ बिस्किट लाओ।,chai ke saath biscuit lao.,hi_to_hinglish
 अखबार की हेडलाइन क्या है?,akhabar ki headline kya hai?,hi_to_hinglish
 आज का मैच किसके बीच है?,aaj ka match kiske beech hai?,hi_to_hinglish
@@ -346,6 +348,7 @@ AC का तापमान कम करो।,ac ka temperature kam karo.,hi_
 तुम बहुत फनी हो।,tum bahut funny ho.,hi_to_hinglish
 तुम्हारी बातें अच्छी लगती हैं।,tumhari baatein acchi lagti hain.,hi_to_hinglish
 तुम्हें देखकर अच्छा लगता है।,tumhe dekhkar accha lagta hai.,hi_to_hinglish
+तुम्हें देखकर अच्छा लगता है।,tumhe dekhkar accha lagta h.,hi_to_hinglish
 मिस कर रहा था तुम्हें।,miss kar raha tha tumhe.,hi_to_hinglish
 कब मिल रहे हो?,kab mil rahe ho?,hi_to_hinglish
 जल्दी मिलना।,jaldi milna.,hi_to_hinglish
@@ -356,6 +359,7 @@ AC का तापमान कम करो।,ac ka temperature kam karo.,hi_
 रील्स बहुत मजेदार थी।,reels bahut mazedar thi.,hi_to_hinglish
 ट्रेंडिंग क्या है आज?,trending kya hai aaj?,hi_to_hinglish
 टिकटॉक पर क्या चल रहा है?,tiktok par kya chal raha hai?,hi_to_hinglish
+टिकटॉक पर क्या चल रहा है?,tiktok par kya chal rha h?,hi_to_hinglish
 नया ट्रेंड ट्राई करोगे?,naya trend try karoge?,hi_to_hinglish
 डांस करोगे मेरे साथ?,dance karoge mere saath?,hi_to_hinglish
 गाना बजाओ ना।,gaana bajao na.,hi_to_hinglish
@@ -383,6 +387,7 @@ AC का तापमान कम करो।,ac ka temperature kam karo.,hi_
 सस्ता वाला लेना।,sasta wala lena.,hi_to_hinglish
 क्वालिटी चेक कर लो।,quality check kar lo.,hi_to_hinglish
 रंग पसंद है?,rang pasand hai?,hi_to_hinglish
+रंग पसंद है?,rang pasand h?,hi_to_hinglish
 साइज़ फिट बैठ रहा है?,size fit baith raha hai?,hi_to_hinglish
 ट्रायल रूम में जाकर देख लो।,trial room mein jaakar dekh lo.,hi_to_hinglish
 ये वाला अच्छा लग रहा है।,ye wala accha lag raha hai.,hi_to_hinglish
@@ -398,14 +403,15 @@ UPI से पेमेंट कर दूँ?,upi se payment kar doon?,hi_to_h
 लोकेशन शेयर कर दो।,location share kar do.,hi_to_hinglish
 Google Maps खोल लो।,google maps khol lo.,hi_to_hinglish
 शॉर्टकट रास्ता कौन सा है?,shortcut rasta kaun sa hai?,hi_to_hinglish
+शॉर्टकट रास्ता कौन सा है?,shortcut rasta kaun sa h?,hi_to_hinglish
 ट्रैफिक जाम है।,traffic jam hai.,hi_to_hinglish
+ट्रैफिक जाम है।,traffic jam h.,hi_to_hinglish
 अल्टरनेटिव रूट ले लो।,alternative route le lo.,hi_to_hinglish
 जल्दी पहुँच जाएंगे।,jaldi pahunch jayenge.,hi_to_hinglish
 पार्किंग कहाँ मिलेगी?,parking kahan milegi?,hi_to_hinglish
 गाड़ी पार्क कर दो।,gaadi park kar do.,hi_to_hinglish
 लिफ्ट में चलो।,lift mein chalo.,hi_to_hinglish
 सीढ़ियाँ चढ़नी हैं?,seedhiyan chadhni hain?,hi_to_hinglish
-सीढ़ियाँ चढ़नी हैं?,seedhiyan chadhni hn?,hi_to_hinglish
 थर्ड फ्लोर पर आ जाना।,third floor par aa jaana.,hi_to_hinglish
 दरवाजा खोल दो।,darwaza khol do.,hi_to_hinglish
 अंदर आ जाओ।,andar aa jao.,hi_to_hinglish
@@ -423,6 +429,7 @@ Google Maps खोल लो।,google maps khol lo.,hi_to_hinglish
 बोलो ना खुलकर।,bolo na khulkar.,hi_to_hinglish
 अपनी बात रखो।,apni baat rakho.,hi_to_hinglish
 सुन रहा हूँ ध्यान से।,sun raha hoon dhyan se.,hi_to_hinglish
+सुन रहा हूँ ध्यान से।,sun rha hoon dhyan se.,hi_to_hinglish
 समझ गया पूरी तरह।,samajh gaya puri tarah.,hi_to_hinglish
 कोई डाउट हो तो पूछो।,koi doubt ho toh poochho.,hi_to_hinglish
 हमेशा खुश रहो!,hamesha khush raho!,hi_to_hinglish
@@ -460,6 +467,7 @@ Google Maps खोल लो।,google maps khol lo.,hi_to_hinglish
 ब्रश करते समय गाना गाओ।,brush karte time gaana gao.,hi_to_hinglish
 नहाने का पानी गर्म कर दो।,nahane ka paani garam kar do.,hi_to_hinglish
 शैंपू खत्म हो रहा है।,shampoo khatam ho raha hai.,hi_to_hinglish
+शैंपू खत्म हो रहा है।,shampoo khatam ho rha h.,hi_to_hinglish
 नया टूथपेस्ट लाना।,naya toothpaste laana.,hi_to_hinglish
 फेसवॉश कहाँ रखा है?,facewash kahan rakha hai?,hi_to_hinglish
 शेविंग क्रीम लगाओ।,shaving cream lagao.,hi_to_hinglish
@@ -467,13 +475,13 @@ Google Maps खोल लो।,google maps khol lo.,hi_to_hinglish
 मॉइश्चराइजर लगाना मत भूलना।,moisturizer lagana mat bhoolna.,hi_to_hinglish
 सनस्क्रीन लगाकर निकलना।,sunscreen lagakar nikalna.,hi_to_hinglish
 "छाता साथ रखना, बादल घिरे हैं।","chhata saath rakhna, baadal ghire hain.",hi_to_hinglish
+"छाता साथ रखना, बादल घिरे हैं।","chhata saath rakhna, baadal ghire hn.",hi_to_hinglish
 बारिश में भीग मत जाना।,baarish mein bheeg mat jaana.,hi_to_hinglish
 गीले कपड़े बदल लो।,geelay kapde badal lo.,hi_to_hinglish
 सर्दी लग रही है क्या?,sardi lag rahi hai kya?,hi_to_hinglish
 खाँसी की दवा ले ली?,khaansi ki dawa le li?,hi_to_hinglish
 गर्म पानी पीकर देखो।,garam paani peekar dekho.,hi_to_hinglish
 भाप लेना फायदेमंद है।,bhaap lena faydemand hai.,hi_to_hinglish
-भाप लेना फायदेमंद है।,bhaap lena faydemand h.,hi_to_hinglish
 सूप बनाऊँ आज?,soup banaun aaj?,hi_to_hinglish
 हल्दी वाला दूध पियो।,haldi wala doodh piyo.,hi_to_hinglish
 इम्यूनिटी बढ़ाने वाला खाना खाओ।,immunity badhane wala khana khao.,hi_to_hinglish
@@ -485,6 +493,7 @@ Google Maps खोल लो।,google maps khol lo.,hi_to_hinglish
 माइक्रोवेव साफ कर दो।,microwave saaf kar do.,hi_to_hinglish
 फ्रिज डीफ्रॉस्ट करना है।,fridge defrost karna hai.,hi_to_hinglish
 बर्फ जम गई है।,barf jam gayi hai.,hi_to_hinglish
+बर्फ जम गई है।,barf jam gayi h.,hi_to_hinglish
 आइस ट्रे भर दो।,ice tray bhar do.,hi_to_hinglish
 कोल्ड ड्रिंक ठंडी है?,cold drink thandi hai?,hi_to_hinglish
 "बियर या जूस, क्या लोगे?","beer ya juice, kya logey?",hi_to_hinglish
@@ -504,7 +513,6 @@ RSVP चेक कर लो।,rsvp check kar lo.,hi_to_hinglish
 लाइट्स लगा दो।,lights laga do.,hi_to_hinglish
 म्यूजिक सिस्टम चेक करो।,music system check karo.,hi_to_hinglish
 डीजे बुलाया है?,dj bulaya hai?,hi_to_hinglish
-डीजे बुलाया है?,dj bulaya h?,hi_to_hinglish
 फूड काउंटर कहाँ है?,food counter kahan hai?,hi_to_hinglish
 सर्विस अच्छी होनी चाहिए।,service acchi honi chahiye.,hi_to_hinglish
 फीडबैक लेना मत भूलना।,feedback lena mat bhoolna.,hi_to_hinglish
@@ -541,9 +549,11 @@ RSVP चेक कर लो।,rsvp check kar lo.,hi_to_hinglish
 मेन्यू देख लो।,menu dekh lo.,hi_to_hinglish
 ब्रेकफास्ट शामिल है?,breakfast shamil hai?,hi_to_hinglish
 स्विमिंग पूल कहाँ है?,swimming pool kahan hai?,hi_to_hinglish
+स्विमिंग पूल कहाँ है?,swimming pool kahan h?,hi_to_hinglish
 जिम टाइमिंग क्या है?,gym timing kya hai?,hi_to_hinglish
 स्पा बुकिंग कराऊँ?,spa booking karaun?,hi_to_hinglish
 मसाज करवाना है।,massage karwana hai.,hi_to_hinglish
+मसाज करवाना है।,massage karwana h.,hi_to_hinglish
 रिलैक्स फील कर रहे हो?,relax feel kar rahe ho?,hi_to_hinglish
 व्यू बहुत सुंदर है।,view bahut sundar hai.,hi_to_hinglish
 सनराइज देखने उठो।,sunrise dekhne utho.,hi_to_hinglish
@@ -569,10 +579,12 @@ RSVP चेक कर लो।,rsvp check kar lo.,hi_to_hinglish
 वाईफाई पासवर्ड पूछ लो।,wifi password pooch lo.,hi_to_hinglish
 राउटर रीस्टार्ट कर दो।,router restart kar do.,hi_to_hinglish
 सिग्नल कम आ रहा है।,signal kam aa raha hai.,hi_to_hinglish
+सिग्नल कम आ रहा है।,signal kam aa rha h.,hi_to_hinglish
 नेटवर्क प्रॉब्लम है।,network problem hai.,hi_to_hinglish
 कस्टमर केयर को कॉल करो।,customer care ko call karo.,hi_to_hinglish
 कंप्लेंट दर्ज करा दो।,complaint darj kara do.,hi_to_hinglish
 रिफंड का इंतजार है।,refund ka intezaar hai.,hi_to_hinglish
+रिफंड का इंतजार है।,refund ka intezaar h.,hi_to_hinglish
 नया ऑर्डर प्लेस कर दिया।,naya order place kar diya.,hi_to_hinglish
 डिलीवरी ट्रैक कर रहे हो?,delivery track kar rahe ho?,hi_to_hinglish
 पैकेट आ गया?,packet aa gaya?,hi_to_hinglish
@@ -586,7 +598,6 @@ RSVP चेक कर लो।,rsvp check kar lo.,hi_to_hinglish
 बजट में रहना।,budget mein rehna.,hi_to_hinglish
 सेविंग्स का ध्यान रखो।,savings ka dhyan rakho.,hi_to_hinglish
 इन्वेस्टमेंट प्लान क्या है?,investment plan kya hai?,hi_to_hinglish
-इन्वेस्टमेंट प्लान क्या है?,investment plan kya h?,hi_to_hinglish
 शेयर मार्केट देख रहे हो?,share market dekh rahe ho?,hi_to_hinglish
 म्यूचुअल फंड में डालोगे?,mutual fund mein daloge?,hi_to_hinglish
 FD रिन्यू करनी है।,fd renew karni hai.,hi_to_hinglish
@@ -594,6 +605,7 @@ FD रिन्यू करनी है।,fd renew karni hai.,hi_to_hinglish
 पासबुक अपडेट करवा लो।,passbook update karwa lo.,hi_to_hinglish
 चेक बुक नए ऑर्डर कर दो।,cheque book naya order kar do.,hi_to_hinglish
 ऑनलाइन बैंकिंग एक्टिवेट है?,online banking activate hai?,hi_to_hinglish
+ऑनलाइन बैंकिंग एक्टिवेट है?,online banking activate h?,hi_to_hinglish
 OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hinglish
 पासवर्ड रीसेट कर लो।,password reset kar lo.,hi_to_hinglish
 सिक्योरिटी अलर्ट आया है।,security alert aaya hai.,hi_to_hinglish
@@ -625,6 +637,7 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 मैसेज पैक यूज कर रहे हो?,message pack use kar rahe ho?,hi_to_hinglish
 डेटा रिचार्ज करवा लो।,data recharge karwa lo.,hi_to_hinglish
 वैलिडिटी कितनी बची है?,validity kitni bachi hai?,hi_to_hinglish
+वैलिडिटी कितनी बची है?,validity kitni bachi h?,hi_to_hinglish
 प्लान चेंज करना है।,plan change karna hai.,hi_to_hinglish
 कस्टमर केयर से बात करो।,customer care se baat karo.,hi_to_hinglish
 इश्यू सॉल्व हो गया?,issue solve ho gaya?,hi_to_hinglish
@@ -635,6 +648,7 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 आज की डेडलाइन याद है ना?,aaj ki deadline yaad hai na?,hi_to_hinglish
 रिपोर्ट में कुछ बदलाव चाहिए?,report mein kuch badlaav chahiye?,hi_to_hinglish
 टीम मीटिंग कब रखी है?,team meeting kab rakhi hai?,hi_to_hinglish
+टीम मीटिंग कब रखी है?,team meeting kab rakhi h?,hi_to_hinglish
 प्रोजेक्ट का स्टेटस क्या है?,project ka status kya hai?,hi_to_hinglish
 क्लाइंट से फीडबैक आया?,client se feedback aaya?,hi_to_hinglish
 नया सॉफ्टवेयर इंस्टॉल कर लिया?,naya software install kar liya?,hi_to_hinglish
@@ -648,7 +662,6 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 स्ट्रेचिंग कर ली सुबह?,stretching kar li subah?,hi_to_hinglish
 आँखों में ड्रॉप डाल लो।,aankhon mein drop daal lo.,hi_to_hinglish
 सिर दर्द हो रहा है क्या?,sir dard ho raha hai kya?,hi_to_hinglish
-सिर दर्द हो रहा है क्या?,sir dard ho rha hai kya?,hi_to_hinglish
 टेबलेट ले ली दर्द की?,tablet le li dard ki?,hi_to_hinglish
 आराम से बैठो थोड़ी देर।,aaram se baitho thodi der.,hi_to_hinglish
 किताब का कौन सा चैप्टर पढ़ रहे हो?,kitaab ka kaunsa chapter padh rahe ho?,hi_to_hinglish
@@ -660,6 +673,7 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 स्कूटर की चाबी कहाँ है?,scooter ki chaabi kahan hai?,hi_to_hinglish
 टायर का एयर चेक करवा लो।,tyre ka air check karwa lo.,hi_to_hinglish
 ब्रेक ठीक काम कर रहे हैं?,brake theek kaam kar rahe hain?,hi_to_hinglish
+ब्रेक ठीक काम कर रहे हैं?,brake theek kaam kar rahe hn?,hi_to_hinglish
 हॉर्न बजाकर निकलना।,horn bajakar nikalna.,hi_to_hinglish
 पार्किंग फ्री है क्या?,parking free hai kya?,hi_to_hinglish
 लिफ्ट में जगह है?,lift mein jagah hai?,hi_to_hinglish
@@ -681,6 +695,7 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 क्वेश्चन पूछना मत भूलना।,question poochna mat bhoolna.,hi_to_hinglish
 मीटिंग अच्छी रही।,meeting acchi rahi.,hi_to_hinglish
 अगली मीटिंग कब है?,agli meeting kab hai?,hi_to_hinglish
+अगली मीटिंग कब है?,agli meeting kab h?,hi_to_hinglish
 टास्क असाइन हो गया?,task assign ho gaya?,hi_to_hinglish
 होमवर्क चेक कर लिया?,homework check kar liya?,hi_to_hinglish
 बच्चे का स्कूल बस आ गई?,bacche ki school bus aa gayi?,hi_to_hinglish
@@ -693,6 +708,7 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 नाखून कट गए?,naakhun kat gaye?,hi_to_hinglish
 हाथ धोकर खाना खाओ।,haath dhokar khana khao.,hi_to_hinglish
 सब्जी में नमक ठीक है?,sabzi mein namak theek hai?,hi_to_hinglish
+सब्जी में नमक ठीक है?,sabzi mein namak theek h?,hi_to_hinglish
 रोटी पतली बना दी।,roti patli bana di.,hi_to_hinglish
 दाल में जीरा डाला?,daal mein jeera daala?,hi_to_hinglish
 खाना गरम कर दूँ?,khana garam kar doon?,hi_to_hinglish
@@ -713,9 +729,9 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 परिवार को अपडेट दे दिया?,parivaar ko update de diya?,hi_to_hinglish
 मम्मी का हाल पूछ लिया?,mummy ka haal pooch liya?,hi_to_hinglish
 पापा की तबीयत कैसी है?,papa ki tabiyat kaisi hai?,hi_to_hinglish
+पापा की तबीयत कैसी है?,papa ki tabiyat kaisi h?,hi_to_hinglish
 बहन का एग्जाम कब है?,behen ka exam kab hai?,hi_to_hinglish
 भाई को मदद चाहिए?,bhai ko madad chahiye?,hi_to_hinglish
-भाई को मदद चाहिए?,bh ko madad chahiye?,hi_to_hinglish
 पड़ोसी से मिल आए?,padosi se mil aaye?,hi_to_hinglish
 सोसाइटी मीटिंग में जाना है।,society meeting mein jaana hai.,hi_to_hinglish
 मेंटेनेंस चार्ज जमा कर दिया?,maintenance charge jama kar diya?,hi_to_hinglish
@@ -735,14 +751,13 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 कपड़े अलमारी में रख दो।,kapde almari mein rakh do.,hi_to_hinglish
 तौलिया सूखने पर रखो।,tauliya sukhne par rakho.,hi_to_hinglish
 बेडशीट बदलनी है।,bedsheet badalni hai.,hi_to_hinglish
-बेडशीट बदलनी है।,bedsheet badalni h.,hi_to_hinglish
 तकिये का कवर धोना है।,takiye ka cover dhona hai.,hi_to_hinglish
-तकिये का कवर धोना है।,takiye ka cover dhona h.,hi_to_hinglish
 आज तुम्हारा मूड कैसा है?,aaj tumhara mood kaisa hai?,hi_to_hinglish
 थोड़ी सी मुस्कान दिखाओ ना।,thodi si muskaan dikhao na.,hi_to_hinglish
 क्या कोई अच्छी खबर है?,kya koi acchi khabar hai?,hi_to_hinglish
 मन में क्या चल रहा है?,man mein kya chal raha hai?,hi_to_hinglish
 आज कुछ स्पेशल प्लान है?,aaj kuch special plan hai?,hi_to_hinglish
+आज कुछ स्पेशल प्लान है?,aaj kuch special plan h?,hi_to_hinglish
 ब्रेकफास्ट में अंडा खाओगे?,breakfast mein anda khaoge?,hi_to_hinglish
 ओट्स बना दूँ आज?,oats bana doon aaj?,hi_to_hinglish
 फ्रूट स्मूदी पीना है?,fruit smoothie peena hai?,hi_to_hinglish
@@ -762,7 +777,6 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 रात का खाना हल्का रखना।,raat ka khana halka rakhna.,hi_to_hinglish
 सोने से पहले दूध पी लो।,sone se pehle doodh pee lo.,hi_to_hinglish
 कल सुबह जल्दी निकलना है।,kal subah jaldi nikalna hai.,hi_to_hinglish
-कल सुबह जल्दी निकलना है।,kal subah jaldi nikalna h.,hi_to_hinglish
 अलार्म कितने बजे का रखूँ?,alarm kitne baje ka rakhun?,hi_to_hinglish
 ट्रेन पकड़नी है क्या?,train pakadni hai kya?,hi_to_hinglish
 बस स्टैंड पर पहुँच गए?,bus stand par pahunch gaye?,hi_to_hinglish
@@ -774,7 +788,6 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 सफर कितना लंबा है?,safar kitna lamba hai?,hi_to_hinglish
 बीच में कहाँ रुकेंगे?,beech mein kahan rukenge?,hi_to_hinglish
 चाय वाला आया क्या?,chai wala aaya kya?,hi_to_hinglish
-चाय वाला आया क्या?,ch wala aaya kya?,hi_to_hinglish
 स्नैक्स का पैकेट खोल लो।,snacks ka packet khol lo.,hi_to_hinglish
 किताब पढ़ते-पढ़ते नींद आ गई।,kitaab padhte-padhte neend aa gayi.,hi_to_hinglish
 म्यूजिक प्लेलिस्ट चला दूँ?,music playlist chala doon?,hi_to_hinglish
@@ -782,23 +795,24 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 गाना साथ-साथ गाएँगे?,gaana saath-saath gayenge?,hi_to_hinglish
 आज का मौसम बहुत सुहाना है।,aaj ka mausam bahut suhana hai.,hi_to_hinglish
 हल्की हवा चल रही है।,halki hawa chal rahi hai.,hi_to_hinglish
+हल्की हवा चल रही है।,halki hawa chal rahi h.,hi_to_hinglish
 पेड़ों की छाँव में बैठें?,pedon ki chhaanv mein baithen?,hi_to_hinglish
 बेंच पर जगह है क्या?,bench par jagah hai kya?,hi_to_hinglish
 फूलों की महक आ रही है।,phoolon ki mehak aa rahi hai.,hi_to_hinglish
 बटरफ्लाई देखी तुमने?,butterfly dekhi tumne?,hi_to_hinglish
 फोटो खींच लूँ इस व्यू की?,photo khinch loon is view ki?,hi_to_hinglish
 शाम को सूरज ढल रहा है।,shaam ko suraj dhal raha hai.,hi_to_hinglish
-शाम को सूरज ढल रहा है।,shaam ko suraj dhal rha h.,hi_to_hinglish
 कलरफुल आकाश बहुत खूबसूरत है।,colourful aakash bahut khoobsurat hai.,hi_to_hinglish
 स्टार्स गिनने का मन कर रहा है।,stars ginne ka man kar raha hai.,hi_to_hinglish
 रात में चाँद निकला है।,raat mein chaand nikla hai.,hi_to_hinglish
-रात में चाँद निकला है।,raat mein chaand nikla h.,hi_to_hinglish
 ठंडी हवा में कंबल ओढ़ लो।,thandi hawa mein kambal odh lo.,hi_to_hinglish
 बालकनी में बैठकर चाय पीएँ?,balcony mein baithkar chai piyen?,hi_to_hinglish
 पड़ोसियों से बात हो गई?,padosiyon se baat ho gayi?,hi_to_hinglish
 सोसाइटी में नया नियम आया है।,society mein naya niyam aaya hai.,hi_to_hinglish
+सोसाइटी में नया नियम आया है।,society mein naya niyam aaya h.,hi_to_hinglish
 मेंटेनेंस का काम कब शुरू होगा?,maintenance ka kaam kab shuru hoga?,hi_to_hinglish
 लिफ्ट में बोर्ड लगा है।,lift mein board laga hai.,hi_to_hinglish
+लिफ्ट में बोर्ड लगा है।,lift mein board laga h.,hi_to_hinglish
 सीढ़ियाँ चढ़कर एक्सरसाइज हो जाएगी।,seedhiyan chadhkar exercise ho jayegi.,hi_to_hinglish
 घर का मुख्य दरवाजा बंद है?,ghar ka mukhya darwaza band hai?,hi_to_hinglish
 चाबी डुप्लीकेट बनवा लो।,chaabi duplicate banwa lo.,hi_to_hinglish
@@ -808,7 +822,6 @@ OTP एक्सपायर हो गया।,otp expire ho gaya.,hi_to_hingl
 आधार कार्ड रिन्यू करवाना है।,aadhaar card renew karwana hai.,hi_to_hinglish
 PAN कार्ड साथ रखना।,pan card saath rakhna.,hi_to_hinglish
 इलेक्ट्रिक बिल का ड्यू डेट क्या है?,electric bill ka due date kya hai?,hi_to_hinglish
-इलेक्ट्रिक बिल का ड्यू डेट क्या है?,electric bill ka due date kya h?,hi_to_hinglish
 ऑनलाइन पेमेंट कर दिया?,online payment kar diya?,hi_to_hinglish
 रसीद सेव कर लो।,receipt save kar lo.,hi_to_hinglish
 नया प्लान चुनना है।,naya plan chunna hai.,hi_to_hinglish
@@ -830,7 +843,6 @@ PAN कार्ड साथ रखना।,pan card saath rakhna.,hi_to_hingl
 दो स्टेप वेरिफिकेशन ऑन कर दो।,two step verification on kar do.,hi_to_hinglish
 अकाउंट लॉगआउट कर दिया?,account logout kar diya?,hi_to_hinglish
 सेशन एक्सपायर हो रहा है।,session expire ho raha hai.,hi_to_hinglish
-सेशन एक्सपायर हो रहा है।,session expire ho rha h.,hi_to_hinglish
 ब्राउजर हिस्ट्री क्लियर कर लो।,browser history clear kar lo.,hi_to_hinglish
 कैश फाइल्स डिलीट कर दो।,cache files delete kar do.,hi_to_hinglish
 सॉफ्टवेयर अपडेट पेंडिंग है।,software update pending hai.,hi_to_hinglish
@@ -844,6 +856,7 @@ PAN कार्ड साथ रखना।,pan card saath rakhna.,hi_to_hingl
 "शुक्रिया, समस्या सुलझ गई।","shukriya, samasya sulajh gayi.",hi_to_hinglish
 अब सब स्मूथ चल रहा है।,ab sab smooth chal raha hai.,hi_to_hinglish
 नई शुरुआत करते हैं।,nayi shuruaat karte hain.,hi_to_hinglish
+नई शुरुआत करते हैं।,nayi shuruaat karte hn.,hi_to_hinglish
 आज से नई आदत डालेंगे।,aaj se nayi aadat dalenge.,hi_to_hinglish
 टाइम टेबल बना लिया?,timetable bana liya?,hi_to_hinglish
 रोज का रूटीन फॉलो करो।,roz ka routine follow karo.,hi_to_hinglish
@@ -887,6 +900,7 @@ PAN कार्ड साथ रखना।,pan card saath rakhna.,hi_to_hingl
 सपने बड़े रखो।,sapne bade rakho.,hi_to_hinglish
 मेहनत लगातार करो।,mehnat lagatar karo.,hi_to_hinglish
 धैर्य रखना सीखो।,dhairya rakhna seekho.,hi_to_hinglish
+धैर्य रखना सीखो।,dhrya rakhna seekho.,hi_to_hinglish
 सब कुछ समय पर होता है।,sab kuch time par hota hai.,hi_to_hinglish
 पेशेंस बहुत जरूरी है।,patience bahut zaruri hai.,hi_to_hinglish
 पॉजिटिव एनर्जी बनाए रखो।,positive energy banaye rakho.,hi_to_hinglish
@@ -944,331 +958,713 @@ PAN कार्ड साथ रखना।,pan card saath rakhna.,hi_to_hingl
 सफलता मिलती रहे।,safalta milti rahe.,hi_to_hinglish
 सपने पूरे हों।,sapne pure hon.,hi_to_hinglish
 हमेशा खुश और स्वस्थ रहो।,hamesha khush aur swasth raho.,hi_to_hinglish
-Awesome,awesome,en_to_hinglish
-Get well soon,jaldi theek ho jao,en_to_hinglish
-Send me the details,mujhe details bhej do,en_to_hinglish
-I had sweet dreams,acche sapne aaye,en_to_hinglish
-Let's clean it,chalo saaf karte hain,en_to_hinglish
-Safe drive karna,safe drive karna,en_to_hinglish
-Have a safe journey,safe journey,en_to_hinglish
-Let's take a break,chalo break lete hain,en_to_hinglish
-Restart the router,router restart kar do,en_to_hinglish
-I am 25 years old,main 25 saal ka hoon,en_to_hinglish
-I miss you,mujhe tumhari yaad aa rahi hai,en_to_hinglish
-Stop joking,mazak band karo,en_to_hinglish
-Trust me,mujh par bharosa karo,en_to_hinglish
-Can you help me,kya tum meri madad kar sakte ho,en_to_hinglish
-I need water,mujhe pani chahiye,en_to_hinglish
-It's a beautiful day,bahut sundar din hai,en_to_hinglish
-It's 8 o'clock,aath baj rahe hain,en_to_hinglish
-I am excited,main bahut excited hoon,en_to_hinglish
-Work hard,mehnat karo,en_to_hinglish
-I have a headache,mujhe sir dard hai,en_to_hinglish
-I don't know,mujhe nahi pata,en_to_hinglish
-No problem,koi baat nahi,en_to_hinglish
-New beginning,nayi shuruaat,en_to_hinglish
-I agree,main agree karta hoon,en_to_hinglish
-You are the best,tum best ho,en_to_hinglish
-This is good,yeh accha hai,en_to_hinglish
-Hurry up,jaldi karo,en_to_hinglish
-I will call you,main tumhe call karunga,en_to_hinglish
-I will miss you,mujhe tumhari yaad aaegi,en_to_hinglish
-I need some help,mujhe thodi madad chahiye,en_to_hinglish
-I want to go out,mujhe bahar jaana hai,en_to_hinglish
-I have to go,mujhe jaana hai,en_to_hinglish
-I have a meeting,meri meeting hai,en_to_hinglish
-Congratulations,"congratulations, badhai ho",en_to_hinglish
-I am angry,mujhe gussa aa rha hai,en_to_hinglish
-Papa se pooch lena,papa se pooch lena,en_to_hinglish
-Happy birthday,happy birthday,en_to_hinglish
-All the best,all the best,en_to_hinglish
-Namaste ji,namaste ji,en_to_hinglish
-Good morning,good morning,en_to_hinglish
-How are you,tum kaise ho,en_to_hinglish
-It's possible,yeh possible hai,en_to_hinglish
-Let's celebrate,chalo celebrate karte hain,en_to_hinglish
-I am a student,main student hoon,en_to_hinglish
-I don't like it,mujhe yeh pasand nahi,en_to_hinglish
-What are you doing,kya kar rahe ho,en_to_hinglish
-I am busy,main busy hoon,en_to_hinglish
-The food is tasty,khana bahut tasty hai,en_to_hinglish
-I am sleepy,mujhe neend aa rahi hai,en_to_hinglish
-Sorry,sorry ya maaf karna,en_to_hinglish
-Feel free,feel free,en_to_hinglish
-I am proud of you,mujhe tum par naaz hai,en_to_hinglish
-What happened,kya hoona,en_to_hinglish
-What do you do,tum kya karte ho,en_to_hinglish
-God bless you,bhagwan aapko bless kare,en_to_hinglish
-Thank you so much,bahut bahut shukriya,en_to_hinglish
-Take an umbrella,chhata le jaana,en_to_hinglish
-I forgot,main bhool gaya,en_to_hinglish
-You are very kind,tum bahut ache ho,en_to_hinglish
-I am coming,main aa raha hoon,en_to_hinglish
-Haan bilkul,haan bilkul,en_to_hinglish
-I am happy,main khush hoon,en_to_hinglish
-Take rest,aaram kar lo,en_to_hinglish
-Do some exercise,exercise kar lo,en_to_hinglish
-Come back soon,jaldi wapas aana,en_to_hinglish
-Where are you,tum kahan ho,en_to_hinglish
-Good morning sunshine,good morning,en_to_hinglish
-I want to sleep,mujhe sona hai,en_to_hinglish
-I disagree,main disagree karta hoon,en_to_hinglish
-Did you sleep well,acchi neend aayi kya,en_to_hinglish
-Shubh Diwali,shubh diwali,en_to_hinglish
-Give me five minutes,mujhe paanch minute do,en_to_hinglish
-Turn off the light,light band kar do,en_to_hinglish
-I am impressed,main impressed hoon,en_to_hinglish
-It's too sweet,bahut meetha hai,en_to_hinglish
-I am done,main ho gaya,en_to_hinglish
-Visit the doctor,doctor ke paas jaao,en_to_hinglish
-Try again,dubara try karo,en_to_hinglish
-I paid the bill,main ne bill pay kar diya,en_to_hinglish
-Today is a good day,aaj accha din hai,en_to_hinglish
-Forgive me,mujhe maaf kar do,en_to_hinglish
-I believe you,mujhe tum par vishwas hai,en_to_hinglish
-Take care,apna khayal rakhna,en_to_hinglish
-Stay strong,strong raho,en_to_hinglish
-Take medicine on time,dawa time par lena,en_to_hinglish
-I am late,main late ho gaya,en_to_hinglish
-I am feeling tired,mujhe thakan mehsoos ho rahi hai,en_to_hinglish
-Finish your work,apna kaam khatam kar lo,en_to_hinglish
-Don't give up,haar mat maanna,en_to_hinglish
-Call me later,baad mein call karna,en_to_hinglish
-Don't stress,stress mat lo,en_to_hinglish
-I am lucky,main lucky hoon,en_to_hinglish
-Theek hai,theek hai,en_to_hinglish
-Where is my phone,mera phone kahan hai,en_to_hinglish
-What will you eat,kya khaoge,en_to_hinglish
-I am motivated,main motivated hoon,en_to_hinglish
-Fold the clothes,kapde fold kar lo,en_to_hinglish
-It might rain,baarish ho sakti hai,en_to_hinglish
-Life is beautiful,zindagi bahut khubsurat hai,en_to_hinglish
-Lock the door,darwaza lock kar dena,en_to_hinglish
-Milte hain jaldi,milte hain jaldi,en_to_hinglish
-The sun is very strong,dhoop bahut tez hai,en_to_hinglish
-I am with you,main tumhare saath hoon,en_to_hinglish
-It's urgent,yeh urgent hai,en_to_hinglish
-Stay safe,surakshit rehna,en_to_hinglish
-Don't worry,chinta mat karo,en_to_hinglish
-Everything will be fine,sab theek ho jayega,en_to_hinglish
-Be positive,positive raho,en_to_hinglish
-Jai Shri Ram,jai shri ram,en_to_hinglish
-I am angry,mujhe gussa aa raha hai,en_to_hinglish
-Tell me the truth,sach batao,en_to_hinglish
-The food is ready,khana ready hai,en_to_hinglish
-Behen ka exam kab hai,behen ka exam kab hai,en_to_hinglish
-I am going on vacation,main vacation par ja raha hoon,en_to_hinglish
-It's too hot,bahut garmi hai,en_to_hinglish
-I made a mistake,main galti kar gaya,en_to_hinglish
-Traffic is heavy,traffic bahut hai,en_to_hinglish
-I am learning Hindi,main hindi seekh raha hoon,en_to_hinglish
-It's raining,baarish ho rahi hai,en_to_hinglish
-I am feeling cold,mujhe thand lag rahi hai,en_to_hinglish
-Order online,online order kar lo,en_to_hinglish
-It's okay,theek hai,en_to_hinglish
-You can trust me,tum mujh par bharosa kar sakte ho,en_to_hinglish
-I am hungry,mujhe bhook lagi hai,en_to_hinglish
-Buy some milk,doodh le aana,en_to_hinglish
-Don't lie,jhoot mat bolna,en_to_hinglish
-I am waiting for you,main tumhara intezar kar raha hoon,en_to_hinglish
-See you tomorrow,kal milte hn,en_to_hinglish
-What is your name,tumhara naam kya hai,en_to_hinglish
-I am at home,main ghar par hoon,en_to_hinglish
-I am very thirsty,mujhe bahut pyaas lagi hai,en_to_hinglish
-Charge your phone,phone charge kar lo,en_to_hinglish
-Dream big,sapne bade dekho,en_to_hinglish
-It's very cold,bahut thand hai,en_to_hinglish
-Call me if needed,zarurat pade to call karna,en_to_hinglish
-I like your smile,mujhe tumhari smile pasand hai,en_to_hinglish
-The delivery is late,delivery late ho rahi hai,en_to_hinglish
-I am going to office,main office ja raha hoon,en_to_hinglish
-Give me discount,discount de do,en_to_hinglish
-I am bored,mujhe bore ho raha hai,en_to_hinglish
-You look beautiful,tum bahut sundar lag rahe ho,en_to_hinglish
-Where do you live,tum kahan rehte ho,en_to_hinglish
-Turn on the fan,pankha on kar do,en_to_hinglish
-I am full,mera pet bhar gaya,en_to_hinglish
-Repeat please,dubara bolo,en_to_hinglish
-Fantastic,fantastic,en_to_hinglish
-Never lose hope,ummeed mat chhodna,en_to_hinglish
-Please help me,please mujhe madad karo,en_to_hinglish
-Calm down,shant ho jao,en_to_hinglish
-You're welcome,you're welcome,en_to_hinglish
-I had a bad dream,mujhe bura sapna aaya,en_to_hinglish
-Let's have dinner,chalo dinner karte hain,en_to_hinglish
-No tension,koi tension nhi,en_to_hinglish
-See you tomorrow,kal milte hain,en_to_hinglish
-Good night,"good night, so jao",en_to_hinglish
-Keep smiling,muskurate raho,en_to_hinglish
-Fresh start,fresh start,en_to_hinglish
-Switch off the AC,ac band kar do,en_to_hinglish
-I can't eat this,main yeh nahi kha sakta,en_to_hinglish
-I am sorry for that,uske liye sorry,en_to_hinglish
-Bhai kya kar raha hai,bhai kya kar raha hai,en_to_hinglish
-Well done,"well done, bahut accha kiya",en_to_hinglish
-This dress looks good,yeh dress acchi lag rahi hai,en_to_hinglish
-Did you see my post,mera post dekha kya,en_to_hinglish
-Come home early,ghar jaldi aana,en_to_hinglish
-See you next time,next time milte hain,en_to_hinglish
-I am going to school,main school ja raha hoon,en_to_hinglish
-You are funny,tum bahut funny ho,en_to_hinglish
-How is your health,tabiyat kaisi hai,en_to_hinglish
-Shall we go for a walk,chalo walk karte hain,en_to_hinglish
-Kuch naya batao,kuch naya batao,en_to_hinglish
-Sab badhiya,sab badhiya,en_to_hinglish
-Keep the change,change rakh lo,en_to_hinglish
-You look handsome,tum bahut handsome lag rahe ho,en_to_hinglish
-Nahi bhai,nahi,en_to_hinglish
-Take care of yourself,khud ka khayal rakhna,en_to_hinglish
-Don't snooze,snooze mat karna,en_to_hinglish
-Let's do it together,chalo saath mein karte hain,en_to_hinglish
-Lower the volume,volume kam kar do,en_to_hinglish
-I don't understand,mujhe samajh nahi aa raha,en_to_hinglish
-I am feeling tired,muje thakan mehsoos ho rahi hai,en_to_hinglish
-Success will come,safalta zaroor milegi,en_to_hinglish
-Drink more water,zyada paani piyo,en_to_hinglish
-Speak slowly,dhire bolna,en_to_hinglish
-I am feeling sick,mujhe bimar lag raha hai,en_to_hinglish
-Kya chal raha hai,kya chal raha hai,en_to_hinglish
-No one is perfect,koi perfect nahi hota,en_to_hinglish
-You speak very well,tum bahut accha bolte ho,en_to_hinglish
-I am tired,main thak gaya hoon,en_to_hinglish
-Give me a glass of water,ek glass paani de do,en_to_hinglish
-Let's watch a movie,chalo movie dekhte hain,en_to_hinglish
-This is difficult,yeh mushkil hai,en_to_hinglish
-I can't eat this,main yeh nhi kha sakta,en_to_hinglish
-I love you,main tumse pyar karta hoon,en_to_hinglish
-Ghar pahunch ke bataana,ghar pahunch ke bataana,en_to_hinglish
-I am cooking food,main khana bana raha hoon,en_to_hinglish
-You can do it,tum kar sakte ho,en_to_hinglish
-Take rest,aaram karo,en_to_hinglish
+मुझे थोड़ी मदद चाहिए,mujhe thodi madad chahiye,hi_to_hinglish
+तुम आज फ्री हो क्या?,tum aaj free ho kya?,hi_to_hinglish
+कल क्या प्रोग्राम है?,kal kya program hai?,hi_to_hinglish
+मुझे ऑफिस जाना है,mujhe office jaana hai,hi_to_hinglish
+ट्रेन कितने बजे की है?,train kitne baje ki hai?,hi_to_hinglish
+मेरा बैग कहाँ है?,mera bag kahan hai?,hi_to_hinglish
+पानी की बोतल भर दो,paani ki bottle bhar do,hi_to_hinglish
+अभी निकल रहे हो क्या?,abhi nikal rahe ho kya?,hi_to_hinglish
+रास्ते में कुछ खाना है?,raste mein kuch khana hai?,hi_to_hinglish
+मुझे भूख बहुत लगी है,mujhe bhookh bahut lagi hai,hi_to_hinglish
+चाय बना दूँ क्या?,chai bana doon kya?,hi_to_hinglish
+नाश्ता कर लिया तुमने?,nashta kar liya tumne?,hi_to_hinglish
+स्कूल का होमवर्क किया?,school ka homework kiya?,hi_to_hinglish
+बैग पैक कर लिया?,bag pack kar liya?,hi_to_hinglish
+बस मिस मत करना,bus miss mat karna,hi_to_hinglish
+आज मौसम बहुत सुहाना है,aaj mausam bahut suhana hai,hi_to_hinglish
+बारिश होने वाली है,baarish hone wali hai,hi_to_hinglish
+छाता साथ रख लेना,chhata saath rakh lena,hi_to_hinglish
+मुझे नींद नहीं आ रही,mujhe neend nahi aa rahi,hi_to_hinglish
+मुझे नींद नहीं आ रही,mujhe neend nhi aa rahi,hi_to_hinglish
+थोड़ा और सो लूँ?,thoda aur so loon?,hi_to_hinglish
+अलार्म फिर से लगा दो,alarm phir se laga do,hi_to_hinglish
+जल्दी तैयार हो जाओ,jaldi ready ho jao,hi_to_hinglish
+कपड़े इस्त्री कर दिए?,kapde istri kar diye?,hi_to_hinglish
+जूते पॉलिश कर लो,jootey polish kar lo,hi_to_hinglish
+मुझे दाढ़ी बनानी है,mujhe daadhi banani hai,hi_to_hinglish
+बाल कटवाने जाना है,baal katwane jaana hai,hi_to_hinglish
+नई शर्ट अच्छी लग रही है,nayi shirt acchi lag rahi hai,hi_to_hinglish
+ये पैंट फिट नहीं बैठ रही,ye pant fit nahi baith rahi,hi_to_hinglish
+मुझे शॉपिंग करनी है,mujhe shopping karni hai,hi_to_hinglish
+बाजार चलोगे मेरे साथ?,bazaar chalogey mere saath?,hi_to_hinglish
+कुछ फल खरीद लाना,kuch phal kharid lana,hi_to_hinglish
+दूध और अंडे ले आना,doodh aur ande le aana,hi_to_hinglish
+फ्रिज में जगह बना दो,fridge mein jagah bana do,hi_to_hinglish
+किचन साफ करने में मदद करो,kitchen saaf karne mein madad karo,hi_to_hinglish
+बर्तन धोने में हाथ बंटाओ,bartan dhone mein haath bantaao,hi_to_hinglish
+कपड़े फोल्ड करके रख दो,kapde fold karke rakh do,hi_to_hinglish
+वॉशिंग मशीन चल गई क्या?,washing machine chal gayi kya?,hi_to_hinglish
+बिजली का बिल आया है,bijli ka bill aaya hai,hi_to_hinglish
+पानी का बिल भर दो,paani ka bill bhar do,hi_to_hinglish
+गैस सिलेंडर बुक करवा लो,gas cylinder book karwa lo,hi_to_hinglish
+लाइट का बल्ब बदल दो,light ka bulb badal do,hi_to_hinglish
+पंखा तेज कर दो,pankha tez kar do,hi_to_hinglish
+AC का तापमान बढ़ा दो,ac ka temperature badha do,hi_to_hinglish
+टीवी बंद कर दो,tv band kar do,hi_to_hinglish
+रिमोट मुझे दे दो,remote mujhe de do,hi_to_hinglish
+अच्छी फिल्म लग रही है,acchi film lag rahi hai,hi_to_hinglish
+सीरियल शुरू हो गया क्या?,serial shuru ho gaya kya?,hi_to_hinglish
+न्यूज़ में क्या चल रहा है?,news mein kya chal raha hai?,hi_to_hinglish
+मुझे थोड़ा आराम चाहिए,mujhe thoda aaram chahiye,hi_to_hinglish
+सोफे पर लेट जाना,sofa par let jaana,hi_to_hinglish
+तकिया और कंबल ले आओ,takiya aur kambal le aao,hi_to_hinglish
+खिड़की खोल दो,khidki khol do,hi_to_hinglish
+पर्दे बंद कर दो,parde band kar do,hi_to_hinglish
+वॉकिंग कितनी की आज?,walking kitni ki aaj?,hi_to_hinglish
+एक्सरसाइज कर ली क्या?,exercise kar li kya?,hi_to_hinglish
+योगा करना अच्छा लगता है,yoga karna accha lagta hai,hi_to_hinglish
+पानी ज्यादा पियो,paani zyada piyo,hi_to_hinglish
+फल और सब्जी खाओ,phal aur sabzi khao,hi_to_hinglish
+जंक फूड बंद कर दो,junk food band kar do,hi_to_hinglish
+डाइट फॉलो कर रहे हो?,diet follow kar rahe ho?,hi_to_hinglish
+वजन कम हो रहा है क्या?,weight kam ho raha hai kya?,hi_to_hinglish
+डॉक्टर को दिखाया क्या?,doctor ko dikhaya kya?,hi_to_hinglish
+दवा समय पर लेना,dawa time par lena,hi_to_hinglish
+तबीयत कैसी महसूस हो रही है?,tabiyat kaisi mehsoos ho rahi hai?,hi_to_hinglish
+बुखार उतर गया क्या?,bukhar utar gaya kya?,hi_to_hinglish
+आराम से रहो,aaram se raho,hi_to_hinglish
+मुझे बहुत मिस कर रहे हो?,mujhe bahut miss kar rahe ho?,hi_to_hinglish
+जल्दी मिलना चाहते हो?,jaldi milna chahte ho?,hi_to_hinglish
+वीडियो कॉल करें क्या?,video call karen kya?,hi_to_hinglish
+फोटो भेज दो ना,photo bhej do,hi_to_hinglish
+स्टोरी देख ली तुमने?,story dekh li tumne?,hi_to_hinglish
+रील्स बहुत अच्छी थी,reels bahut acchi thi,hi_to_hinglish
+आज ट्रेंडिंग क्या है?,aaj trending kya hai?,hi_to_hinglish
+डांस करने का मन है,dance karne ka man hai,hi_to_hinglish
+गाना साथ गाएंगे?,gaana saath gayenge?,hi_to_hinglish
+पार्टी में चलोगे?,party mein chalogey?,hi_to_hinglish
+ड्रेस चुन ली क्या?,dress chun li kya?,hi_to_hinglish
+मेकअप तैयार है?,makeup ready hai?,hi_to_hinglish
+सेल्फी लेते हैं,selfie lete hain,hi_to_hinglish
+सेल्फी लेते हैं,selfie lete hn,hi_to_hinglish
+ग्रुप फोटो खींचो,group photo khincho,hi_to_hinglish
+ये पल याद रखना,ye pal yaad rakhna,hi_to_hinglish
+बहुत मजा आया आज,bahut maza aaya aaj,hi_to_hinglish
+थैंक यू इतना अच्छे समय के लिए,thank you itna accha time ke liye,hi_to_hinglish
+घर सुरक्षित पहुँचना,ghar surakshit pahunchna,hi_to_hinglish
+ड्राइविंग सावधानी से करना,driving savdhani se karna,hi_to_hinglish
+रात को अकेले मत घूमना,raat ko akele mat ghoomna,hi_to_hinglish
+मैं तुम्हें ड्रॉप कर दूँगा,main tumhe drop kar dunga,hi_to_hinglish
+ऑटो का किराया तय कर लो,auto ka kiraya tay kar lo,hi_to_hinglish
+पैसे गिनकर रख लो,paise ginkar rakh lo,hi_to_hinglish
+बाजार में सावधानी से रहना,bazaar mein savdhani se rehna,hi_to_hinglish
+क्वालिटी अच्छी चेक कर लेना,quality acchi check kar lena,hi_to_hinglish
+साइज़ सही है क्या?,size sahi hai kya?,hi_to_hinglish
+ट्रायल करके देख लो,trial karke dekh lo,hi_to_hinglish
+ये वाला पसंद आया,ye wala pasand aaya,hi_to_hinglish
+पैकिंग कर दो प्लीज,packing kar do please,hi_to_hinglish
+बिल बना दो,bill bana do,hi_to_hinglish
+स्कैन कर लो,scan kar lo,hi_to_hinglish
+आना फिर कभी,aana phir kabhi,hi_to_hinglish
+कल मिलते हैं,kal milte hain,hi_to_hinglish
+समय का ध्यान रखना,time ka dhyan rakhna,hi_to_hinglish
+मीटिंग की तैयारी कर ली?,meeting ki taiyari kar li?,hi_to_hinglish
+लोकेशन शेयर कर दो,location share kar do,hi_to_hinglish
+गूगल मैप्स खोल लो,google maps khol lo,hi_to_hinglish
+ट्रैफिक से बचकर आना,traffic se bachkar aana,hi_to_hinglish
+पार्किंग मिल गई क्या?,parking mil gayi kya?,hi_to_hinglish
+गाड़ी लॉक कर दो,gaadi lock kar do,hi_to_hinglish
+लिफ्ट में जाना है,lift mein jaana hai,hi_to_hinglish
+सीढ़ियाँ चढ़नी पड़ेंगी,seedhiyan chadhni padengi,hi_to_hinglish
+थर्ड फ्लोर पर आ जाना,third floor par aa jaana,hi_to_hinglish
+दरवाजा खोल दो,darwaza khol do,hi_to_hinglish
+अंदर आ जाओ आराम से,andar aa jao aaram se,hi_to_hinglish
+पानी पी लो,paani pee lo,hi_to_hinglish
+कुछ खाने को दोगे?,kuch khane ko dogey?,hi_to_hinglish
+स्वाद बहुत अच्छा है,swaad bahut accha hai,hi_to_hinglish
+रेसिपी मुझे बताना,recipe mujhe batana,hi_to_hinglish
+अगली बार मैं ट्राई करूँगा,agli baar main try karunga,hi_to_hinglish
+तुम्हारा खाना बहुत अच्छा है,tumhara khana bahut accha hai,hi_to_hinglish
+कॉmpliment के लिए थैंक यू,compliment ke liye thank you,hi_to_hinglish
+शर्माओ मत,sharmao mat,hi_to_hinglish
+खुलकर बात करो,khulkar baat karo,hi_to_hinglish
+मैं ध्यान से सुन रहा हूँ,main dhyan se sun raha hoon,hi_to_hinglish
+पूरी तरह समझ गया,puri tarah samajh gaya,hi_to_hinglish
+कोई डाउट हो तो पूछना,koi doubt ho toh poochna,hi_to_hinglish
+हमेशा मुस्कुराते रहो,hamesha muskuraate raho,hi_to_hinglish
+आज ऑफिस कितने बजे छूटेगा?,aaj office kitne baje chhoote ga?,hi_to_hinglish
+लैपटॉप चार्जर साथ रखना,laptop charger saath rakhna,hi_to_hinglish
+प्रिंटर में पेपर डाल दो,printer mein paper daal do,hi_to_hinglish
+आज का काम पूरा हुआ?,aaj ka kaam pura hoona?,hi_to_hinglish
+मीटिंग के नोट्स भेजना,meeting ke notes bhejna,hi_to_hinglish
+क्लाइंट को फॉलो अप करना,client ko follow up karna,hi_to_hinglish
+डेडलाइन याद है ना?,deadline yaad hai na?,hi_to_hinglish
+ओवरटाइम करना पड़ेगा,overtime karna padega,hi_to_hinglish
+लंच में क्या खाओगे?,lunch mein kya khaoge?,hi_to_hinglish
+सैंडविच ऑर्डर करें?,sandwich order karen?,hi_to_hinglish
+डेस्क साफ रखना,desk saaf rakhna,hi_to_hinglish
+कैब बुक हो गई?,cab book ho gayi?,hi_to_hinglish
+शाम को जिम जाना है,shaam ko gym jaana hai,hi_to_hinglish
+वर्कआउट अच्छा रहा?,workout accha raha?,hi_to_hinglish
+पानी पीते रहो,paani peete raho,hi_to_hinglish
+स्क्रीन से ब्रेक ले लो,screen se break le lo,hi_to_hinglish
+नींद अच्छी आई क्या?,neend acchi aayi kya?,hi_to_hinglish
+सुबह जल्दी उठना है,subah jaldi uthna hai,hi_to_hinglish
+अलार्म स्नूज़ मत करना,alarm snooze mat karna,hi_to_hinglish
+नहाने का पानी गर्म है?,nahane ka paani garam hai?,hi_to_hinglish
+शैंपू खत्म हो रहा है,shampoo khatam ho raha hai,hi_to_hinglish
+नया टूथपेस्ट लाना,naya toothpaste laana,hi_to_hinglish
+सनस्क्रीन लगाना मत भूलना,sunscreen lagana mat bhoolna,hi_to_hinglish
+बारिश हो रही है,baarish ho rahi hai,hi_to_hinglish
+गीले कपड़े बदल लो,geelay kapde badal lo,hi_to_hinglish
+खाँसी हो रही है क्या?,khaansi ho rahi hai kya?,hi_to_hinglish
+गर्म पानी पी लो,garam paani pee lo,hi_to_hinglish
+सूप पीना अच्छा रहेगा,soup peena accha rahega,hi_to_hinglish
+हल्दी दूध पियो,haldi doodh piyo,hi_to_hinglish
+इम्यूनिटी मजबूत रखो,immunity mazboot rakho,hi_to_hinglish
+फल रोज खाओ,phal roz khao,hi_to_hinglish
+सब्जी अच्छे से धोना,sabzi acche se dhona,hi_to_hinglish
+गैस बंद कर दी क्या?,gas band kar di kya?,hi_to_hinglish
+फ्रिज साफ करना है,fridge saaf karna hai,hi_to_hinglish
+बर्फ निकाल दो,barf nikaal do,hi_to_hinglish
+कोल्ड ड्रिंक ठंडी कर दो,cold drink thandi kar do,hi_to_hinglish
+पार्टी कितने बजे है?,party kitne baje hai?,hi_to_hinglish
+गिफ्ट तैयार है?,gift ready hai?,hi_to_hinglish
+केक कब आ रहा है?,cake kab aa raha hai?,hi_to_hinglish
+केक कब आ रहा है?,cake kab aa rha h?,hi_to_hinglish
+म्यूजिक सिस्टम चेक कर लो,music system check kar lo,hi_to_hinglish
+डांस फ्लोर तैयार है,dance floor ready hai,hi_to_hinglish
+बहुत एंजॉय किया,bahut enjoy kiya,hi_to_hinglish
+यादगार शाम रही,yaadgaar shaam rahi,hi_to_hinglish
+अगली पार्टी कब करें?,agli party kab karen?,hi_to_hinglish
+वीकेंड पर कहाँ घूमने जाएँ?,weekend par kahan ghoomne jayen?,hi_to_hinglish
+टिकट बुक कर लिए?,ticket book kar liye?,hi_to_hinglish
+होटल रूम कन्फर्म है?,hotel room confirm hai?,hi_to_hinglish
+बैग पैक हो गया?,bag pack ho gaya?,hi_to_hinglish
+दवाई साथ रख लेना,dawai saath rakh lena,hi_to_hinglish
+पावर बैंक चार्ज कर लो,power bank charge kar lo,hi_to_hinglish
+कैमरा तैयार रखना,camera ready rakhna,hi_to_hinglish
+ट्रिप यादगार बनेगी,trip yaadgaar banegi,hi_to_hinglish
+घर वापस कब आ रहे हो?,ghar wapas kab aa rahe ho?,hi_to_hinglish
+सूटकेस अनपैक कर दो,suitcase unpack kar do,hi_to_hinglish
+कपड़े धुलने डाल दो,kapde dhulne daal do,hi_to_hinglish
+मोबाइल कवर बदल लो,mobile cover badal lo,hi_to_hinglish
+हेडफोन ठीक करवा लो,headphone theek karwa lo,hi_to_hinglish
+सिग्नल कम आ रहा है,signal kam aa raha hai,hi_to_hinglish
+कस्टमर केयर कॉल करो,customer care call karo,hi_to_hinglish
+थैंक यू बहुत मदद के लिए,thank you bahut madad ke liye,hi_to_hinglish
+कल फिर मिलते हैं,kal phir milte hain,hi_to_hinglish
+आज का काम चल रहा है?,aaj ka kaam chal raha hai?,hi_to_hinglish
+डेडलाइन याद रखना,deadline yaad rakhna,hi_to_hinglish
+प्रोजेक्ट का अपडेट दो,project ka update do,hi_to_hinglish
+क्लाइंट को ईमेल कर दो,client ko email kar do,hi_to_hinglish
+लंच साथ करेंगे?,lunch saath karenge?,hi_to_hinglish
+वॉकिंग शूज पहन लो,walking shoes pehen lo,hi_to_hinglish
+आज वर्कआउट अच्छा रहा,aaj workout accha raha,hi_to_hinglish
+स्क्रीन टाइम कम करो,screen time kam karo,hi_to_hinglish
+नींद की टैबलेट मत लो,neend ki tablet mat lo,hi_to_hinglish
+किताब पढ़कर सोना,kitaab padhkar sona,hi_to_hinglish
+सुबह पानी पीना शुरू करो,subah paani peena shuru karo,hi_to_hinglish
+मेडिटेशन ट्राई करो,meditation try karo,hi_to_hinglish
+पॉजिटिव रहो,positive raho,hi_to_hinglish
+सब ठीक हो जाएगा,sab theek ho jayega,hi_to_hinglish
+मैं तुम्हारे साथ हूँ,main tumhare saath hoon,hi_to_hinglish
+हार मत मानना,haar mat maanna,hi_to_hinglish
+मेहनत जारी रखो,mehnat jaari rakho,hi_to_hinglish
+सपने पूरे होंगे,sapne pure honge,hi_to_hinglish
+हमेशा खुश रहो,hamesha khush raho,hi_to_hinglish
 Relax,relax karo,en_to_hinglish
-Plug in the charger,charger laga do,en_to_hinglish
-Wear sunglasses,sunglasses pehen lo,en_to_hinglish
-We are a team,hum team hain,en_to_hinglish
-I need water,muje pani chahiye,en_to_hinglish
-Meet me at 5,5 baje milna,en_to_hinglish
-Thank you for coming,aane ke liye thank you,en_to_hinglish
-Wait for me,mera intezar karo,en_to_hinglish
-It's cheap,yeh sasta hai,en_to_hinglish
-I posted a story,main ne story daali hai,en_to_hinglish
-What is the time,time kya hai,en_to_hinglish
-No tension,koi tension nahi,en_to_hinglish
-It's too loud,bahut shor hai,en_to_hinglish
-Cash or UPI,cash ya upi,en_to_hinglish
-Believe in yourself,khud par vishwas rakho,en_to_hinglish
-How was your day,tera din kaisa tha,en_to_hinglish
-Have breakfast,nashta kar lo,en_to_hinglish
-Close the window,khidki band kar do,en_to_hinglish
-My battery is low,meri battery low hai,en_to_hinglish
-Clean the table,table saaf kar do,en_to_hinglish
-Yes please,haan please,en_to_hinglish
-Come fast,jaldi aao,en_to_hinglish
-Very nice,bahut accha,en_to_hinglish
-It's too costly,bahut mehnga hai,en_to_hinglish
-Practice every day,roz practice karo,en_to_hinglish
-I believe you,muje tum par vishwas hai,en_to_hinglish
-Where is the market,market kahan hai,en_to_hinglish
-I am ready,main ready hoon,en_to_hinglish
-My name is Aryan,mera naam aryan hai,en_to_hinglish
-Take your time,aram se time lo,en_to_hinglish
-Enjoy every moment,har pal ka maza lo,en_to_hinglish
-No thanks,nahi thanks,en_to_hinglish
-Congratulations,"congratulations, badh ho",en_to_hinglish
-Set the alarm,alarm laga do,en_to_hinglish
-Sochta hoon,sochta hoon,en_to_hinglish
-I am fine,main theek hoon,en_to_hinglish
-The room is messy,kamra bahut ganda hai,en_to_hinglish
-I feel like eating pizza,mujhe pizza khane ka man kar raha hai,en_to_hinglish
-I am proud of you,muje tum par naaz hai,en_to_hinglish
-Open the door,darwaza kholo,en_to_hinglish
-Shayad,shayad,en_to_hinglish
-Let's clean it,chalo saaf karte hn,en_to_hinglish
-Cut the cake,cake kaat lo,en_to_hinglish
-Avoid junk food,junk food avoid karo,en_to_hinglish
-This is expensive,yeh mehnga hai,en_to_hinglish
-I don't know,muje nahi pata,en_to_hinglish
-Keep it up,aise hi continue rakho,en_to_hinglish
-Let's go,chalo chalte hain,en_to_hinglish
-Let's meet soon,jaldi milte hain,en_to_hinglish
-Wake me up at 7,mujhe 7 baje utha dena,en_to_hinglish
-Life is short,zindagi bahut chhoti hai,en_to_hinglish
-No sugar please,bina cheeni ki,en_to_hinglish
-How old are you,tum kitne saal ke ho,en_to_hinglish
-Drive carefully,sambhal ke chalana,en_to_hinglish
-Ram Ram bhai,ram ram,en_to_hinglish
-You motivate me,tum mujhe motivate karte ho,en_to_hinglish
-Today is my birthday,aaj mera birthday hai,en_to_hinglish
-Wash your hands,haath dho lo,en_to_hinglish
-Let's watch a movie,chalo movie dekhte hn,en_to_hinglish
-I support you,main tumhara support karta hoon,en_to_hinglish
-I am here for you,main tumhare liye hoon,en_to_hinglish
-Don't be late again,phir se late mat hona,en_to_hinglish
+Focus on your goals,apne goals par focus karo,en_to_hinglish
+The sun is very strong,dhoop bahut tez hai,en_to_hinglish
+Book the tickets,tickets book kar lo,en_to_hinglish
+Window seat or aisle,window seat ya aisle,en_to_hinglish
+What do you do,tum kya karte ho,en_to_hinglish
+Sing with me,mere saath gaao,en_to_hinglish
+Football is my favorite,football mera favorite hai,en_to_hinglish
+Do some exercise,exercise kar lo,en_to_hinglish
+It's a beautiful day,bahut sundar din hai,en_to_hinglish
+Everything will be fine,sab theek ho jayega,en_to_hinglish
+One more roti,ek roti aur,en_to_hinglish
 Eat healthy food,healthy khana khao,en_to_hinglish
-Kaise ho aaj,kaise ho aaj,en_to_hinglish
-Let's sleep early,jaldi so jaate hain,en_to_hinglish
-I want to go out,muje bahar jaana hai,en_to_hinglish
-Pass me the water,paani pass kar do,en_to_hinglish
-We are a team,hum team hn,en_to_hinglish
-Mummy ko phone kar dena,mummy ko phone kar dena,en_to_hinglish
-Pack it nicely,acche se pack kar do,en_to_hinglish
-What is the price,price kya hai,en_to_hinglish
-I am grateful,main shukraguzaar hoon,en_to_hinglish
-The curry is spicy,curry bahut spicy hai,en_to_hinglish
-Happy Holi,happy holi,en_to_hinglish
-Make tea for me,mere liye chai bana do,en_to_hinglish
-I am going to gym,main gym ja rha hoon,en_to_hinglish
+I am vegetarian,main vegetarian hoon,en_to_hinglish
+Very nice,bahut accha,en_to_hinglish
+Ghar pahunch ke bataana,ghar pahunch ke bataana,en_to_hinglish
+I am happy,main khush hoon,en_to_hinglish
+Wash your hands,haath dho lo,en_to_hinglish
+Give me a glass of water,ek glass paani de do,en_to_hinglish
+It's too hot,bahut garmi hai,en_to_hinglish
+I am with you,main tumhare saath hoon,en_to_hinglish
+I have to go,mujhe jaana hai,en_to_hinglish
+I have a fever,mujhe bukhar hai,en_to_hinglish
 I am serious,main serious hoon,en_to_hinglish
-Add some salt,thoda namak daal do,en_to_hinglish
-Can you teach me,kya tum mujhe sikha sakte ho,en_to_hinglish
-It's not a big deal,koi badi baat nahi,en_to_hinglish
-Many many returns,happy returns of the day,en_to_hinglish
-Wash the dishes,bartan dho do,en_to_hinglish
+Sweet dreams,sweet dreams,en_to_hinglish
+Feel free,feel free,en_to_hinglish
+All the best,all the best,en_to_hinglish
+I am tired,main thak gaya hoon,en_to_hinglish
+Please help me,please mujhe madad karo,en_to_hinglish
+Milte hain jaldi,milte hain jaldi,en_to_hinglish
+I am 25 years old,main 25 saal ka hoon,en_to_hinglish
+I lost my pen,meri pen kho gayi,en_to_hinglish
+Come again,phir aana,en_to_hinglish
+Let's take a break,chalo break lete hain,en_to_hinglish
+I paid the bill,main ne bill pay kar diya,en_to_hinglish
 I am going to gym,main gym ja raha hoon,en_to_hinglish
-It was good,accha tha,en_to_hinglish
-Superb,superb,en_to_hinglish
-Positive vibes only,positive vibes only,en_to_hinglish
-Send me photos,mujhe photos bhejna,en_to_hinglish
-Festival kab hai,tyohaar kab hai,en_to_hinglish
-Let's have dinner,chalo dinner karte hn,en_to_hinglish
-Everything is fine,sab theek hai,en_to_hinglish
-Please help me,please muje madad karo,en_to_hinglish
-I am coming,main aa rha hoon,en_to_hinglish
-Be happy always,hamesha khush raho,en_to_hinglish
-Family ko namaste bolna,family ko namaste bolna,en_to_hinglish
-Like and comment,like aur comment kar do,en_to_hinglish
-The WiFi is not working,wifi nahi chal raha,en_to_hinglish
-Book a cab,cab book kar lo,en_to_hinglish
-It's not a big deal,koi badi baat nhi,en_to_hinglish
-Let's eat,chalo khana khate hain,en_to_hinglish
-Let's go,chalo chalte hn,en_to_hinglish
-I am hungry,muje bhook lagi hai,en_to_hinglish
-I like your smile,muje tumhari smile pasand hai,en_to_hinglish
-I am feeling sick,mujhe bimar lag rha hai,en_to_hinglish
-I am leaving now,main abhi ja raha hoon,en_to_hinglish
-Brush your teeth,daant brush kar lo,en_to_hinglish
-No thanks,nhi thanks,en_to_hinglish
+Did you see my post,mera post dekha kya,en_to_hinglish
+I am full,mera pet bhar gaya,en_to_hinglish
+The movie was amazing,movie bahut zabardast thi,en_to_hinglish
+Try again,dubara try karo,en_to_hinglish
+It's cheap,yeh sasta hai,en_to_hinglish
 Let's go shopping,chalo shopping chalte hain,en_to_hinglish
-The WiFi is not working,wifi nhi chal rha,en_to_hinglish
-I am going on vacation,main vacation par ja rha hoon,en_to_hinglish
-You motivate me,tum muje motivate karte ho,en_to_hinglish
-No one is perfect,koi perfect nhi hota,en_to_hinglish
-Let's meet soon,jaldi milte hn,en_to_hinglish
-I will miss you,muje tumhari yaad aaegi,en_to_hinglish
-I don't like it,mujhe yeh pasand nhi,en_to_hinglish
-Happy New Year,happy new year,en_to_hinglish
-Milte hain jaldi,milte hn jaldi,en_to_hinglish
-It's 8 o'clock,aath baj rahe hn,en_to_hinglish
-Nahi bhai,nhi bh,en_to_hinglish
-Shall we go for a walk,chalo walk karte hn,en_to_hinglish
-Let's sleep early,jaldi so jaate hn,en_to_hinglish
-Repeat please,dubara bolo na,en_to_hinglish
-Kya chal raha hai,kya chal rha hai,en_to_hinglish
-No problem,koi baat nhi,en_to_hinglish
-I don't like it,muje yeh pasand nahi,en_to_hinglish
-See you next time,next time milte hn,en_to_hinglish
-I am going to school,main school ja rha hoon,en_to_hinglish
-Let's eat,chalo khana khate hn,en_to_hinglish
-I don't know,mujhe nhi pata,en_to_hinglish
+Come back soon,jaldi wapas aana,en_to_hinglish
+We are a team,hum team hain,en_to_hinglish
+Can you help me,kya tum meri madad kar sakte ho,en_to_hinglish
+Tell me the truth,sach batao,en_to_hinglish
+Stay humble,humble raho,en_to_hinglish
+Don't forget your wallet,purse mat bhoolna,en_to_hinglish
+Sleep well,acchi neend aaye,en_to_hinglish
+Repeat please,dubara bolo,en_to_hinglish
+Good bye,alvida,en_to_hinglish
+Don't lose hope,ummeed mat chhodna,en_to_hinglish
+Where is my phone,mera phone kahan hai,en_to_hinglish
+Let's sleep early,jaldi so jaate hain,en_to_hinglish
+Thank you for coming,aane ke liye thank you,en_to_hinglish
+Teacher is strict,teacher bahut strict hai,en_to_hinglish
+Meet me at 5,5 baje milna,en_to_hinglish
+Don't lie,jhoot mat bolna,en_to_hinglish
+My phone is ringing,mera phone baj raha hai,en_to_hinglish
+Congratulations,"congratulations, badhai ho",en_to_hinglish
+I don't like it,mujhe yeh pasand nahi,en_to_hinglish
+Lock the door,darwaza lock kar dena,en_to_hinglish
+I am proud of you,mujhe tum par naaz hai,en_to_hinglish
+Let's have dinner,chalo dinner karte hain,en_to_hinglish
+I am going on vacation,main vacation par ja raha hoon,en_to_hinglish
+Power cut again,phir se light chali gayi,en_to_hinglish
+I feel like eating pizza,mujhe pizza khane ka man kar raha hai,en_to_hinglish
+The food is tasty,khana bahut tasty hai,en_to_hinglish
+Complete your homework,homework complete kar lo,en_to_hinglish
+Watch the highlights,highlights dekh lo,en_to_hinglish
+New beginning,nayi shuruaat,en_to_hinglish
+Patience is key,sabse badi cheez patience hai,en_to_hinglish
+Sunset is my favorite,sunset mera favorite hai,en_to_hinglish
+Wake me up at 7,mujhe 7 baje utha dena,en_to_hinglish
+I will miss you,mujhe tumhari yaad aaegi,en_to_hinglish
+Awesome,awesome,en_to_hinglish
+Keep the change,change rakh lo,en_to_hinglish
+I am ready,main ready hoon,en_to_hinglish
+Come home early,ghar jaldi aana,en_to_hinglish
+Lower the volume,volume kam kar do,en_to_hinglish
+It's too costly,bahut mehnga hai,en_to_hinglish
+Practice speaking,bolna practice karo,en_to_hinglish
+Revise properly,acchhe se revision karo,en_to_hinglish
+Let's go for a drive,chalo drive pe chalte hain,en_to_hinglish
+I am learning Hindi,main hindi seekh raha hoon,en_to_hinglish
+Charge your phone,phone charge kar lo,en_to_hinglish
+It's okay,theek hai,en_to_hinglish
+Go for a morning walk,subah walk karne jaao,en_to_hinglish
+What happened,kya hoona,en_to_hinglish
+Take care of yourself,khud ka khayal rakhna,en_to_hinglish
+Sab badhiya,sab badhiya,en_to_hinglish
+Today is a good day,aaj accha din hai,en_to_hinglish
+I am feeling sleepy,neend aa rahi hai,en_to_hinglish
+Come fast,jaldi aao,en_to_hinglish
+I believe you,mujhe tum par vishwas hai,en_to_hinglish
+Try this size,yeh size try karo,en_to_hinglish
+Everything is fine,sab theek hai,en_to_hinglish
+Visit the doctor,doctor ke paas jaao,en_to_hinglish
+Who is calling,kaun call kar raha hai,en_to_hinglish
+No sugar please,bina cheeni ki,en_to_hinglish
+Theek hai,theek hai,en_to_hinglish
+I forgot,main bhool gaya,en_to_hinglish
+Let's play cricket,chalo cricket khelte hain,en_to_hinglish
+Send me the details,mujhe details bhej do,en_to_hinglish
+The train is delayed,train late ho gayi,en_to_hinglish
+This view is beautiful,yeh view bahut sundar hai,en_to_hinglish
+Don't worry,chinta mat karo,en_to_hinglish
+Yes please,haan please,en_to_hinglish
+Lock the main gate,main gate lock kar do,en_to_hinglish
+Drive carefully,sambhal ke chalana,en_to_hinglish
+It's raining,baarish ho rahi hai,en_to_hinglish
+Keep it up,aise hi continue rakho,en_to_hinglish
+I feel nervous,mujhe ghabrahat ho rahi hai,en_to_hinglish
+Knowledge is power,gyan hi shakti hai,en_to_hinglish
+Help others,doosron ki madad karo,en_to_hinglish
+I am fine,main theek hoon,en_to_hinglish
+You look beautiful,tum bahut sundar lag rahe ho,en_to_hinglish
+I had a bad dream,mujhe bura sapna aaya,en_to_hinglish
+Call me if needed,zarurat pade to call karna,en_to_hinglish
+I woke up early,main subah jaldi utha,en_to_hinglish
+Wear sunglasses,sunglasses pehen lo,en_to_hinglish
+Dream big,sapne bade dekho,en_to_hinglish
+I am busy,main busy hoon,en_to_hinglish
+Card or cash,card ya cash,en_to_hinglish
+How much do I weigh,mera weight kitna hai,en_to_hinglish
+My name is Aryan,mera naam aryan hai,en_to_hinglish
+Stay safe,surakshit rehna,en_to_hinglish
+Don't be angry,gussa mat karo,en_to_hinglish
+Give me five minutes,mujhe paanch minute do,en_to_hinglish
+The room is messy,kamra bahut ganda hai,en_to_hinglish
+Let's clean it,chalo saaf karte hain,en_to_hinglish
+The food is delicious,khana bahut swadisht hai,en_to_hinglish
+Wait for me,mera intezar karo,en_to_hinglish
+WiFi password please,wifi ka password do,en_to_hinglish
+I am sleepy,mujhe neend aa rahi hai,en_to_hinglish
+Traffic is bad today,aaj traffic bahut kharab hai,en_to_hinglish
+I disagree,main disagree karta hoon,en_to_hinglish
+My battery is low,meri battery low hai,en_to_hinglish
+Everything happens for a reason,sab kuch kisi na kisi wajah se hota hai,en_to_hinglish
+Take medicine on time,dawa time par lena,en_to_hinglish
+Forgive me,mujhe maaf kar do,en_to_hinglish
+I am hungry,mujhe bhook lagi hai,en_to_hinglish
+I don't understand,mujhe samajh nahi aa raha,en_to_hinglish
+I don't know,mujhe nahi pata,en_to_hinglish
+Call me later,baad mein call karna,en_to_hinglish
+It's urgent,yeh urgent hai,en_to_hinglish
+No one is perfect,koi perfect nahi hota,en_to_hinglish
+Children are playing,bacche khel rahe hain,en_to_hinglish
+Write neatly,saaf saaf likho,en_to_hinglish
+It was good,accha tha,en_to_hinglish
+Visit the hospital,hospital jaao,en_to_hinglish
+Life is beautiful,zindagi bahut khubsurat hai,en_to_hinglish
+Speak slowly,dhire bolna,en_to_hinglish
+I am late,main late ho gaya,en_to_hinglish
+It's too loud,bahut shor hai,en_to_hinglish
+I want to buy shoes,mujhe shoes kharidne hain,en_to_hinglish
+Safe drive karna,safe drive karna,en_to_hinglish
+Behen ka exam kab hai,behen ka exam kab hai,en_to_hinglish
+It was fun,bahut mazedaar tha,en_to_hinglish
+Set the alarm,alarm laga do,en_to_hinglish
+I am going to school,main school ja raha hoon,en_to_hinglish
+Smile please,smile karo,en_to_hinglish
 Send me the details,muje details bhej do,en_to_hinglish
+Practice makes perfect,practice se perfection aati hai,en_to_hinglish
+I am feeling cold,mujhe thand lag rahi hai,en_to_hinglish
+I want to sleep,mujhe sona hai,en_to_hinglish
+I had sweet dreams,acche sapne aaye,en_to_hinglish
+Let's go to the park,chalo park chalte hain,en_to_hinglish
+Pass me the water,paani pass kar do,en_to_hinglish
+What is the time,time kya hai,en_to_hinglish
+Send me the location,location bhej do,en_to_hinglish
+I need water,mujhe pani chahiye,en_to_hinglish
+Traffic is heavy,traffic bahut hai,en_to_hinglish
+It's possible,yeh possible hai,en_to_hinglish
+Milk is finished,doodh khatam ho gaya,en_to_hinglish
+You can trust me,tum mujh par bharosa kar sakte ho,en_to_hinglish
+Let's party tonight,aaj raat party karte hain,en_to_hinglish
+Work hard,mehnat karo,en_to_hinglish
+I want to lose weight,mujhe weight kam karna hai,en_to_hinglish
+Let's eat,chalo khana khate hain,en_to_hinglish
+I am on the way,main raste mein hoon,en_to_hinglish
+I have a headache,mujhe sir dard hai,en_to_hinglish
+This color suits you,yeh color tum par accha lag raha hai,en_to_hinglish
+I am here for you,main tumhare liye hoon,en_to_hinglish
+I am feeling tired,mujhe thakan mehsoos ho rahi hai,en_to_hinglish
+Turn on the inverter,inverter on kar do,en_to_hinglish
+No tension,koi tension nahi,en_to_hinglish
+Clean the table,table saaf kar do,en_to_hinglish
+Did you sleep well,acchi neend aayi kya,en_to_hinglish
+This is good,yeh accha hai,en_to_hinglish
+Bring bread and butter,bread aur makhan le aana,en_to_hinglish
+Time is precious,samay bahut kimti hai,en_to_hinglish
+The delivery is late,delivery late ho rahi hai,en_to_hinglish
+Call the electrician,electrician ko bulao,en_to_hinglish
+This is difficult,yeh mushkil hai,en_to_hinglish
+Set alarm for 6,6 baje ka alarm laga do,en_to_hinglish
+Switch off the AC,ac band kar do,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hain,en_to_hinglish
+Where are you,tum kahan ho,en_to_hinglish
+Don't give up,haar mat maanna,en_to_hinglish
+It's perfect fit,perfect fit hai,en_to_hinglish
+Cut the cake,cake kaat lo,en_to_hinglish
+Breakfast is ready,nashta ready hai,en_to_hinglish
+How are you,tum kaise ho,en_to_hinglish
+I am going to gym,main gym ja rha hoon,en_to_hinglish
+I am sorry for that,uske liye sorry,en_to_hinglish
+Can you teach me,kya tum mujhe sikha sakte ho,en_to_hinglish
+Dream big work hard,bade sapne dekho aur mehnat karo,en_to_hinglish
+Internet is slow,internet slow hai,en_to_hinglish
+Drink more water,zyada paani piyo,en_to_hinglish
+Be happy always,hamesha khush raho,en_to_hinglish
+Be positive,positive raho,en_to_hinglish
+Better luck next time,agli baar kismat azmaenge,en_to_hinglish
+See you tomorrow,kal milte hain,en_to_hinglish
+Don't stress,stress mat lo,en_to_hinglish
+Read more books,zyada kitabien padho,en_to_hinglish
+Send me photos,mujhe photos bhejna,en_to_hinglish
+You look different,tum alag lag rahe ho,en_to_hinglish
+Fresh start,fresh start,en_to_hinglish
+I like this song,mujhe yeh gaana pasand hai,en_to_hinglish
+Happy New Year,happy new year,en_to_hinglish
+How old are you,tum kitne saal ke ho,en_to_hinglish
+Stay strong,strong raho,en_to_hinglish
+Buy some milk,doodh le aana,en_to_hinglish
+Good morning,good morning,en_to_hinglish
+Shubh Diwali,shubh diwali,en_to_hinglish
+I love you,main tumse pyar karta hoon,en_to_hinglish
+The bulb is fused,balb kharab ho gaya,en_to_hinglish
+I will call you,main tumhe call karunga,en_to_hinglish
+Fold the clothes,kapde fold kar lo,en_to_hinglish
+I trust you,mujhe tum par bharosa hai,en_to_hinglish
+Hurry up please,jaldi karo,en_to_hinglish
+I prefer tea,mujhe ch pasand hai,en_to_hinglish
+Take an umbrella,chhata le jaana,en_to_hinglish
+I want to go out,mujhe bahar jaana hai,en_to_hinglish
+UPI payment,upi se payment kar do,en_to_hinglish
+I enjoyed a lot,muje bahut maza aaya,en_to_hinglish
+We will succeed,hum zaroor safal honge,en_to_hinglish
+Change the song,gaana badal do,en_to_hinglish
+Sorry,sorry ya maaf karna,en_to_hinglish
+Shave your beard,daadi bana lo,en_to_hinglish
+Shayad,shayad,en_to_hinglish
+Work hard stay humble,mehnat karo aur hoonmble raho,en_to_hinglish
+Take your time,aram se time lo,en_to_hinglish
+This shirt looks good,yeh shirt acchi lag rahi hai,en_to_hinglish
+It's too sweet,bahut meetha hai,en_to_hinglish
+Jai Shri Ram,jai shri ram,en_to_hinglish
+Let's do it together,chalo saath mein karte hain,en_to_hinglish
+Sochta hoon,sochta hoon,en_to_hinglish
+I am impressed,main impressed hoon,en_to_hinglish
+I miss you,mujhe tumhari yaad aa rahi hai,en_to_hinglish
+You are the best,tum best ho,en_to_hinglish
+Open the door,darwaza kholo,en_to_hinglish
+I am bored,muje bore ho raha hai,en_to_hinglish
+I am coming,main aa raha hoon,en_to_hinglish
+Take the shortcut,shortcut le lo,en_to_hinglish
+I want to buy shoes,mujhe shoes kharidne hn,en_to_hinglish
+Happy Holi,happy holi,en_to_hinglish
+Thank you for shopping,shopping ke liye thank you,en_to_hinglish
+I like your smile,mujhe tumhari smile pasand hai,en_to_hinglish
+The fridge is empty,fridge khali hai,en_to_hinglish
+You are capable,tum mein capability hai,en_to_hinglish
+Restart the router,router restart kar do,en_to_hinglish
+Eggs or paratha,ande ya paratha,en_to_hinglish
+Exam is next week,exam agle hafte hai,en_to_hinglish
+Birds are chirping,panchhi chahak rahe hain,en_to_hinglish
+Bhai kya kar raha hai,bhai kya kar raha hai,en_to_hinglish
+Calm down,shant ho jao,en_to_hinglish
+Family ko namaste bolna,family ko namaste bolna,en_to_hinglish
+I eat non-veg,main non-veg khata hoon,en_to_hinglish
+Let's go to the mall,chalo mall chalte hain,en_to_hinglish
+Don't waste time,time waste mat karo,en_to_hinglish
+How was your day,tera din kaisa tha,en_to_hinglish
+It's so peaceful here,yahaan bahut sukoon hai,en_to_hinglish
+Let's go,chalo chalte hain,en_to_hinglish
+I need some help,mujhe thodi madad chahiye,en_to_hinglish
+Good night,"good night, so jao",en_to_hinglish
+Positive vibes only,positive vibes only,en_to_hinglish
+The weather is pleasant,mausam bahut accha hai,en_to_hinglish
+Stop joking,mazak band karo,en_to_hinglish
+Enjoy every moment,har pal ka maza lo,en_to_hinglish
+I agree,main agree karta hoon,en_to_hinglish
+Book a cab,cab book kar lo,en_to_hinglish
+I failed,main fail ho gaya,en_to_hinglish
+Better luck next time,agli baar kismat try karega,en_to_hinglish
+I am thirsty,pyaas lagi hai,en_to_hinglish
+Congratulations,"congratulations, badh ho",en_to_hinglish
+I am going to office,main office ja raha hoon,en_to_hinglish
+I am excited,main bahut excited hoon,en_to_hinglish
+Take paracetamol,paracetamol le lo,en_to_hinglish
+Success will come,safalta zaroor milegi,en_to_hinglish
+Let's meet soon,jaldi milte hain,en_to_hinglish
+What time is it,time kya hai,en_to_hinglish
+Did you study,padhai ki kya,en_to_hinglish
+No problem,koi baat nahi,en_to_hinglish
+Brush your teeth,daant brush kar lo,en_to_hinglish
+The sky is clear,aasmaan saaf hai,en_to_hinglish
+Many many returns,happy returns of the day,en_to_hinglish
+I am feeling better,ab thoda better feel kar rha hoon,en_to_hinglish
+I am nervous,main nervous hoon,en_to_hinglish
+Ram Ram bhai,ram ram,en_to_hinglish
+Stay blessed,blessed raho,en_to_hinglish
+Order online,online order kar lo,en_to_hinglish
+See you soon,jaldi milte hain,en_to_hinglish
+Take care bye,"take care, bye",en_to_hinglish
+It's 8 o'clock,aath baj rahe hain,en_to_hinglish
+Believe in yourself,khud par vishwas rakho,en_to_hinglish
+Trust me,mujh par bharosa karo,en_to_hinglish
+Reach in 10 minutes,10 minute mein pahunch jaunga,en_to_hinglish
+All the best for exam,exam ke liye all the best,en_to_hinglish
+Make tea for me,mere liye chai bana do,en_to_hinglish
+The match was thrilling,match bahut exciting tha,en_to_hinglish
+I am at home,main ghar par hoon,en_to_hinglish
+Namaste ji,namaste ji,en_to_hinglish
+No junk food,junk food nahi,en_to_hinglish
+Festival kab hai,tyohaar kab hai,en_to_hinglish
+I need a break,mujhe break chahiye,en_to_hinglish
+Turn off the light,light band kar do,en_to_hinglish
+Superb,superb,en_to_hinglish
+Wash the dishes,bartan dho do,en_to_hinglish
+Well played,bahut accha khela,en_to_hinglish
+You look handsome,tum bahut handsome lag rahe ho,en_to_hinglish
+The WiFi is not working,wifi nahi chal raha,en_to_hinglish
+I am a student,main student hoon,en_to_hinglish
+You're welcome,you're welcome,en_to_hinglish
+Mummy ko phone kar dena,mummy ko phone kar dena,en_to_hinglish
+I am stuffed,pet bilkul bhar gaya,en_to_hinglish
+This is expensive,yeh mehnga hai,en_to_hinglish
+Haan bilkul,haan bilkul,en_to_hinglish
+Avoid junk food,junk food avoid karo,en_to_hinglish
+Life is short,zindagi bahut chhoti hai,en_to_hinglish
+Finish your work,apna kaam khatam kar lo,en_to_hinglish
+Have a safe journey,safe journey,en_to_hinglish
+Turn on the fan,pankha on kar do,en_to_hinglish
+I enjoyed a lot,mujhe bahut maza aaya,en_to_hinglish
+You are funny,tum bahut funny ho,en_to_hinglish
+Life is good,zindagi acchi hai,en_to_hinglish
+Clean your plate,plate saaf karo,en_to_hinglish
+Let's eat,chalo khana khate hn,en_to_hinglish
+Like and comment,like aur comment kar do,en_to_hinglish
+Thank you so much,bahut bahut shukriya,en_to_hinglish
+I don't understand,muje samajh nahi aa raha,en_to_hinglish
+You made my day,tumne mera din bana diya,en_to_hinglish
+I support you,main tumhara support karta hoon,en_to_hinglish
+Buy vegetables,sabzi le aao,en_to_hinglish
+I am angry,mujhe gussa aa raha hai,en_to_hinglish
+What are you doing,kya kar rahe ho,en_to_hinglish
+I am so happy,main bahut khush hoon,en_to_hinglish
+Kaise ho aaj,kaise ho aaj,en_to_hinglish
+Drink warm water,garam paani piyo,en_to_hinglish
+It's not a big deal,koi badi baat nahi,en_to_hinglish
+I am lucky,main lucky hoon,en_to_hinglish
+Have breakfast,nashta kar lo,en_to_hinglish
+No more sugar,aur cheeni nahi,en_to_hinglish
+Good morning sunshine,good morning,en_to_hinglish
+Pack it nicely,acche se pack kar do,en_to_hinglish
+The food is ready,khana ready hai,en_to_hinglish
+Take care,apna khayal rakhna,en_to_hinglish
+Let's play cricket,chalo cricket khelte hn,en_to_hinglish
+You motivate me,tum mujhe motivate karte ho,en_to_hinglish
+What will you eat,kya khaoge,en_to_hinglish
+Never give up,kabhi haar mat maanna,en_to_hinglish
+Happy birthday,happy birthday,en_to_hinglish
+God is great,bhagwan bahut bada hai,en_to_hinglish
+Read loudly,zor se padho,en_to_hinglish
+I like mathematics,mujhe maths pasand hai,en_to_hinglish
+Take rest,aaram kar lo,en_to_hinglish
+I am waiting for you,main tumhara intezar kar raha hoon,en_to_hinglish
+Success takes time,safalta mein time lagta hai,en_to_hinglish
+The curry is spicy,curry bahut spicy hai,en_to_hinglish
+What should I wear,kya pehnu,en_to_hinglish
+Get well soon,jaldi theek ho jao,en_to_hinglish
+I need a haircut,mujhe baal katwane hain,en_to_hinglish
+Who won the match,match kisne jeeta,en_to_hinglish
+I am cooking food,main khana bana raha hoon,en_to_hinglish
+What is the price,price kya hai,en_to_hinglish
+I will call back,main baad mein call back karunga,en_to_hinglish
+This dress looks good,yeh dress acchi lag rahi hai,en_to_hinglish
+I am feeling sick,mujhe bimar lag raha hai,en_to_hinglish
+It's too spicy,bahut tez mirch hai,en_to_hinglish
+I am learning guitar,main guitar seekh raha hoon,en_to_hinglish
+Yoga is good for health,yoga sehat ke liye accha hai,en_to_hinglish
+I love nature,mujhe nature bahut pasand hai,en_to_hinglish
+God bless you,bhagwan aapko bless kare,en_to_hinglish
+Hurry up,jaldi karo,en_to_hinglish
+Where do you live,tum kahan rehte ho,en_to_hinglish
+I am grateful,main shukraguzaar hoon,en_to_hinglish
+I passed the exam,main exam pass ho gaya,en_to_hinglish
+Keep smiling,muskurate raho,en_to_hinglish
+I am bored,mujhe bore ho raha hai,en_to_hinglish
+Let's go to the mall,chalo mall chalte hn,en_to_hinglish
+Take rest,aaram karo,en_to_hinglish
+No thanks,nahi thanks,en_to_hinglish
+Well done,"well done, bahut accha kiya",en_to_hinglish
+Nahi bhai,nahi,en_to_hinglish
+Let's clean it,chalo saaf karte hn,en_to_hinglish
+Pass the salt,namak pass kar do,en_to_hinglish
+Don't be late again,phir se late mat hona,en_to_hinglish
+Bill please,bill de do,en_to_hinglish
+Click a picture,photo click karo,en_to_hinglish
+Add some salt,thoda namak daal do,en_to_hinglish
+I am learning everyday,main har din kuch naya seekh raha hoon,en_to_hinglish
+Practice every day,roz practice karo,en_to_hinglish
+I am proud of myself,mujhe khud par naaz hai,en_to_hinglish
+Did you study,padh ki kya,en_to_hinglish
+Let's go for a drive,chalo drive pe chalte hn,en_to_hinglish
+Fantastic,fantastic,en_to_hinglish
+Kya chal raha hai,kya chal raha hai,en_to_hinglish
+Switch on the light,light on kar do,en_to_hinglish
+Park the car,gaadi park kar do,en_to_hinglish
+Where is the bathroom,bathroom kahan hai,en_to_hinglish
+I can't eat this,main yeh nahi kha sakta,en_to_hinglish
+I am getting late,main late ho rha hoon,en_to_hinglish
+I need to use the washroom,mujhe washroom jaana hai,en_to_hinglish
+English is difficult,english mushkil hai,en_to_hinglish
+Keep trying,koshish jaari rakhna,en_to_hinglish
+Music is too loud,music bahut tez hai,en_to_hinglish
+I have a meeting,meri meeting hai,en_to_hinglish
+I am feeling sick,muje bimar lag raha hai,en_to_hinglish
+I am sleepy,muje neend aa rahi hai,en_to_hinglish
+I am hungry,muje bhook lagi hai,en_to_hinglish
+How is your health,tabiyat kaisi hai,en_to_hinglish
+Never lose hope,ummeed mat chhodna,en_to_hinglish
+No tension,koi tension nhi,en_to_hinglish
+I had a bad dream,muje bura sapna aaya,en_to_hinglish
+Be kind,meherban bano,en_to_hinglish
+Wash the utensils,bartan dho do,en_to_hinglish
+It's very cold,bahut thand hai,en_to_hinglish
+I am very thirsty,mujhe bahut pyaas lagi hai,en_to_hinglish
+I need a haircut,mujhe baal katwane hn,en_to_hinglish
+Submit the assignment,assignment submit kar do,en_to_hinglish
+Study for two hours,do ghante padhai karo,en_to_hinglish
+I am learning everyday,main har din kuch naya seekh rha hoon,en_to_hinglish
+Your handwriting is good,tumhara handwriting accha hai,en_to_hinglish
+Plug in the charger,charger laga do,en_to_hinglish
+Lend me your notebook,apna notebook de do,en_to_hinglish
+I am motivated,main motivated hoon,en_to_hinglish
+Kuch naya batao,kuch naya batao,en_to_hinglish
+Close the window,khidki band kar do,en_to_hinglish
+I am a big fan,main bada fan hoon,en_to_hinglish
+Let's celebrate,chalo celebrate karte hain,en_to_hinglish
+I am getting late,main late ho raha hoon,en_to_hinglish
+See you next time,next time milte hain,en_to_hinglish
+I am cooking food,main khana bana rha hoon,en_to_hinglish
+I am feeling better,ab thoda better feel kar raha hoon,en_to_hinglish
+Papa se pooch lena,papa se pooch lena,en_to_hinglish
+Where is the market,market kahan hai,en_to_hinglish
+You can do it,tum kar sakte ho,en_to_hinglish
+Coffee is strong,coffee strong hai,en_to_hinglish
+Today is my birthday,aaj mera birthday hai,en_to_hinglish
+Don't snooze,snooze mat karna,en_to_hinglish
+Where are the keys,chabiyan kahan hain,en_to_hinglish
+I don't like it,muje yeh pasand nahi,en_to_hinglish
+I posted a story,main ne story daali hai,en_to_hinglish
+I am on diet,main diet par hoon,en_to_hinglish
+I am leaving now,main abhi ja raha hoon,en_to_hinglish
+We are a team,hum team hn,en_to_hinglish
+Birds are chirping,panchhi chahak rahe hn,en_to_hinglish
+What is your name,tumhara naam kya hai,en_to_hinglish
+Spread love,pyar failao,en_to_hinglish
+You did great,tumne bahut accha kiya,en_to_hinglish
+You are very kind,tum bahut ache ho,en_to_hinglish
+I am done,main ho gaya,en_to_hinglish
+See you next time,next time milte hn,en_to_hinglish
+Milte hain jaldi,milte hn jaldi,en_to_hinglish
+Let's go shopping,chalo shopping chalte hn,en_to_hinglish
+Let's go,chalo chalte hn,en_to_hinglish
+I made a mistake,main galti kar gaya,en_to_hinglish
+Study for two hours,do ghante padh karo,en_to_hinglish
+Shall we go for a walk,chalo walk karte hain,en_to_hinglish
+Give me discount,discount de do,en_to_hinglish
+Help me in kitchen,kitchen mein madad karo,en_to_hinglish
+I am angry,muje gussa aa raha hai,en_to_hinglish
+No problem,koi baat nhi,en_to_hinglish
+Cash or UPI,cash ya upi,en_to_hinglish
+I need water,muje pani chahiye,en_to_hinglish
+Shall we go for a walk,chalo walk karte hn,en_to_hinglish
+I need a haircut,muje baal katwane hain,en_to_hinglish
+I want to lose weight,muje weight kam karna hai,en_to_hinglish
+I prefer tea,mujhe chai pasand hai,en_to_hinglish
+Let's do it together,chalo saath mein karte hn,en_to_hinglish
+It might rain,baarish ho sakti hai,en_to_hinglish
+Have faith,vishwas rakho,en_to_hinglish
+You speak very well,tum bahut accha bolte ho,en_to_hinglish
+Who is calling,kaun call kar rha hai,en_to_hinglish
+I don't understand,mujhe samajh nhi aa rha,en_to_hinglish
+Where are the keys,chabiyan kahan hn,en_to_hinglish
+I have a headache,muje sir dard hai,en_to_hinglish
+I am bored,mujhe bore ho rha hai,en_to_hinglish
+Let's party tonight,aaj raat party karte hn,en_to_hinglish
+See you tomorrow,kal milte hn,en_to_hinglish
+I don't like it,mujhe yeh pasand nhi,en_to_hinglish
+I am going on vacation,main vacation par ja rha hoon,en_to_hinglish
+I am learning guitar,main guitar seekh rha hoon,en_to_hinglish
+I miss you,muje tumhari yaad aa rahi hai,en_to_hinglish
+Let's watch a movie,chalo movie dekhte hn,en_to_hinglish
+I don't know,muje nahi pata,en_to_hinglish
 Make tea for me,mere liye ch bana do,en_to_hinglish
+I am going to school,main school ja rha hoon,en_to_hinglish
+I need to use the washroom,muje washroom jaana hai,en_to_hinglish
+I want to go out,muje bahar jaana hai,en_to_hinglish
+WiFi password please,wifi ka password do na,en_to_hinglish
+I can't eat this,main yeh nhi kha sakta,en_to_hinglish
